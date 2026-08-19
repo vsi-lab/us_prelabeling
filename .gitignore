@@ -1,0 +1,12 @@
+data/raw/
+data/interim/
+data/processed/
+data/splits/
+
+outputs/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pt
+*.pth
