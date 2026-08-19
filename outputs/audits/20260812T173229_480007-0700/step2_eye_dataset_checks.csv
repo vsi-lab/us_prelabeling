@@ -1,0 +1,25 @@
+Check,Status,Details
+required_source_columns,PASS,encounter_missing=[]; manifest_missing=[]
+source_encounter_composite_key_valid,PASS,invalid_or_duplicate_rows=0
+source_manifest_laterality_valid,PASS,invalid_rows=0
+expected_bscan_image_count,PASS,expected=15808; observed=15808
+bscan_images_have_valid_sha256,PASS,invalid_rows=0
+bscan_images_have_paths,PASS,blank_path_rows=0
+blank_findings_never_become_abnormal,PASS,violating_rows=0
+expected_provisional_eligible_eyes,PASS,expected=1514; observed=1514
+expected_provisional_normal_eyes,PASS,expected=402; observed=402
+expected_provisional_abnormal_eyes,PASS,expected=1112; observed=1112
+expected_audit_held_provisional_eyes,PASS,expected=4; observed=4
+expected_include_primary_eyes,PASS,expected=1510; observed=1510
+postoperative_flag_does_not_change_primary_eligibility,PASS,IncludePrimary is determined without using PostoperativeReviewFlag
+master_eye_exam_id_unique,PASS,rows=2552; unique_eye_exam_ids=2552
+master_composite_eye_key_unique,PASS,duplicate_rows=0
+image_manifest_has_no_unknown_laterality,PASS,unknown_rows=0
+image_manifest_only_od_os,PASS,invalid_rows=0
+every_image_maps_to_one_master_eye,PASS,unmapped_rows=0; key_mismatch=False
+every_image_id_belongs_to_one_eye,PASS,image_ids_with_multiple_eyes=0
+original_image_counts_match_manifest,PASS,mismatched_eyes=0
+unique_image_counts_match_model_input_rows,PASS,mismatched_eyes=0
+duplicate_image_count_calculation,PASS,mismatched_eyes=0
+within_eye_duplicate_flags_valid,PASS,duplicate_rows=88
+duplicate_canonical_path_is_deterministic,PASS,canonical path is the first ImageRelativePath after deterministic sorting

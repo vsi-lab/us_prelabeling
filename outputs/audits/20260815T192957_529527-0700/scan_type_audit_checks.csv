@@ -1,0 +1,28 @@
+Category,Check,Status,Expected,Observed,Details
+HARD CHECK,full manifest exists,PASS,True,True,F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\data\raw\metadata\Bscan_full_image_manifest_260811.csv
+HARD CHECK,required manifest columns are present,PASS,none missing,[],missing=[]
+HARD CHECK,"full manifest rows == 16,206",PASS,16206,16206,
+HARD CHECK,UNKNOWN rows == 398,PASS,398,398,
+HARD CHECK,"OD/OS rows == 15,808",PASS,15808,15808,
+HARD CHECK,manifest Laterality values are allowed,PASS,"['OD', 'OS', 'UNKNOWN']","['OD', 'OS', 'UNKNOWN']",
+HARD CHECK,"manifest identifiers, paths, and hashes are nonblank",PASS,0,0,
+HARD CHECK,ImageRelativePath is unique,PASS,0,0,Each manifest row must invoke image analysis exactly once.
+HARD CHECK,all ImageRelativePath values remain under data/raw,PASS,0,0,
+HARD CHECK,every manifest image exists,PASS,0,0,
+HARD CHECK,every image is readable,PASS,0,0,
+HARD CHECK,every image is processed exactly once,PASS,16206,16206,
+HARD CHECK,decoded source bytes match manifest SHA-256,PASS,16206,16206,mismatches=0
+HARD CHECK,decoded image dimensions match manifest,PASS,16206,16206,mismatches=0
+HARD CHECK,source byte sizes match manifest,PASS,16206,16206,mismatches=0
+HARD CHECK,deterministic in-run automatic classification replay,PASS,True,True,The same features were classified twice with no random state.
+HARD CHECK,classifications only use documented allowed values,PASS,"['A_SCAN_ONLY_CANDIDATE', 'B_SCAN_ONLY_CANDIDATE', 'COMBINED_A_B_CANDIDATE', 'UNCERTAIN']","['A_SCAN_ONLY_CANDIDATE', 'B_SCAN_ONLY_CANDIDATE', 'COMBINED_A_B_CANDIDATE', 'UNCERTAIN']",
+HARD CHECK,repeat run reproduces image-level automatic classifications,PASS,True,True,previous_compatible_run=F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\outputs\audits\scan_type\20260815T192143_930214-0700
+HARD CHECK,every UNKNOWN image appears in unknown_scan_type_audit.csv,PASS,398,398,
+HARD CHECK,every B-scan-only screen candidate appears in candidate CSV,PASS,267,267,
+HARD CHECK,UNKNOWN contact sheets cover all 398 images,PASS,398,398,sheets=25
+HARD CHECK,B-scan-only contact sheets cover every candidate,PASS,267,267,sheets=17
+HARD CHECK,manual-review decision fields are blank,PASS,True,True,
+HARD CHECK,no source image is modified,PASS,True,True,Compared byte size and nanosecond mtime for every source image before and after processing.
+HARD CHECK,raw manifest is unchanged,PASS,54f7859837b365ad32cdf5b2f2ebc845160ef59834b39ccc5847529025cc4304,54f7859837b365ad32cdf5b2f2ebc845160ef59834b39ccc5847529025cc4304,
+HARD CHECK,all required output files exist,PASS,True,True,
+HARD CHECK,debug mask artifacts were generated,PASS,True,True,

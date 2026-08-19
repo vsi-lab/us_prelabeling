@@ -1,0 +1,52 @@
+Check,Severity,Status,Details
+locked input hash: val_image_predictions.csv (20260813T134419_044915-0700),HARD FAIL,PASS,sha256=78f9762aa1dd823bc5a57333d2826e5ccf622940d6e59b3dfa9f828f04beba90
+locked input hash: val_eye_predictions.csv (20260813T134419_044915-0700),HARD FAIL,PASS,sha256=1b6e8a27d6bf8f985bf2a436dcb7ccc93c606c799a140de50e82cbdee1b4d1d9
+locked input hash: classification_threshold.json (20260813T134419_044915-0700),HARD FAIL,PASS,sha256=daf9e8f2b8cadaa2590ff3ad97b52390cf219c99b35a3758ecb2e934730b44f9
+locked input hash: run_metadata.json (20260813T134419_044915-0700),HARD FAIL,PASS,sha256=f96b1a10330f8daae4317dab733c9f04da2a1e3c38dc9b85dd8982087d7a9946
+locked input hash: val_eye_predictions.csv (20260813T170240_569268-0700),HARD FAIL,PASS,sha256=194257a476648e630870e1a343b4dfcbe82897a949b1774c07df6ffdddac1234
+locked input hash: classification_threshold.json (20260813T170240_569268-0700),HARD FAIL,PASS,sha256=369ae63c078a1aac105e5481c66740f80bf1b6cffde3bfb0253fd70d7dd07d41
+locked input hash: run_metadata.json (20260813T170240_569268-0700),HARD FAIL,PASS,sha256=ed6edf2cb4ce415e6d965fadd5ad9fb413a79600aeffe47a0d6791edec1f5d10
+locked input hash: val_eye_embeddings.csv (20260814T130502_173490-0700),HARD FAIL,PASS,sha256=22563615dd5e2d61ad0cdbdc8225084abd2a5a7a878333eec5d946f05bd22045
+locked input hash: reference_metadata.json (20260814T130502_173490-0700),HARD FAIL,PASS,sha256=0b16d43864228a527bc16067ded2e7425f12f249f894e95b41fb3550615a51bd
+only exact validation CSV artifacts loaded,HARD FAIL,PASS,"loaded=['F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\val_eye_embeddings.csv', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\val_eye_predictions.csv', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\val_image_predictions.csv', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\val_eye_predictions.csv']"
+only exact validation/supporting JSON artifacts loaded,HARD FAIL,PASS,"loaded=['F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_metadata.json', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\classification_threshold.json', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\run_metadata.json', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\classification_threshold.json', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\run_metadata.json']"
+no test artifact path loaded,HARD FAIL,PASS,test_data_loaded=False
+Day-4 provenance resolves the locked Day-3 run,HARD FAIL,PASS,recorded_path=F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\outputs\models\baseline_resnet18\20260813T134419_044915-0700\val_metrics.csv
+Day-3 provenance confirms test isolation,HARD FAIL,PASS,"test_flags={'test_manifest_loaded': False, 'test_set_evaluated': False, 'test_predictions_created': False}"
+Day-4 provenance confirms test isolation,HARD FAIL,PASS,"test_flags={'test_manifest_loaded': False, 'test_set_evaluated': False, 'test_predictions_created': False}"
+feature typicality provenance confirms test isolation,HARD FAIL,PASS,"test_flags={'test_manifest_loaded': False, 'test_set_evaluated': False, 'test_embeddings_extracted': False, 'test_predictions_created': False}"
+Day-3 eyes has no duplicate EyeExamID,HARD FAIL,PASS,"rows=120, unique=120"
+Day-4 eyes has no duplicate EyeExamID,HARD FAIL,PASS,"rows=120, unique=120"
+feature typicality has no duplicate EyeExamID,HARD FAIL,PASS,"rows=120, unique=120"
+Day-3 image rows unique within eye,HARD FAIL,PASS,image_rows=716
+validation eye count == 120,HARD FAIL,PASS,"observed=120, expected=120"
+Day-3 and Day-4 EyeExamID sets identical,HARD FAIL,PASS,"Day3_eye=120, Day3_image_groups=120, Day4=120"
+feature-typicality EyeExamID set identical,HARD FAIL,PASS,"typicality=120, Day4=120"
+no non-authoritative validation EyeExamID appears,HARD FAIL,PASS,test-safe operational check: all IDs equal the hash-pinned authoritative validation allowlist; test IDs were not loaded for comparison
+all true and predicted labels are Normal/Abnormal,HARD FAIL,PASS,Normal and Abnormal are the only permitted labels
+Day-3 eyes identifier and true-label mappings agree,HARD FAIL,PASS,"ResearchSubjectID, EncounterID, Laterality, and TrueLabel exact"
+Day-3 grouped images identifier and true-label mappings agree,HARD FAIL,PASS,"ResearchSubjectID, EncounterID, Laterality, and TrueLabel exact"
+feature typicality identifier and true-label mappings agree,HARD FAIL,PASS,"ResearchSubjectID, EncounterID, Laterality, and TrueLabel exact"
+"all required probabilities are in [0,1]",HARD FAIL,PASS,"Day-3 image, Day-3 eye, and Day-4 eye probabilities checked"
+locked Day-3 predictions and correctness reproduce,HARD FAIL,PASS,classification_threshold=0.85032540559768677
+locked Day-4 predictions and correctness reproduce,HARD FAIL,PASS,classification_threshold=0.058212615549564362
+Day-3 image MAX reproduces locked Day-3 eye probability,HARD FAIL,PASS,max_abs_difference=0
+single-view disagreement behavior is defined,HARD FAIL,PASS,one view yields SD=0 and range=0; disagreement is not meaningfully assessable
+Day-4 diagnostic view summaries reproduce,HARD FAIL,PASS,max_abs_difference=0
+feature reference sets remain locked at 61 Normal / 194 Abnormal,HARD FAIL,PASS,"Normal=61, Abnormal=194"
+"feature percentiles present and in [0,100]",HARD FAIL,PASS,"minimum=0.000000, maximum=98.360656"
+typicality artifact reproduces locked Day-4 predictions,HARD FAIL,PASS,"probabilities, labels, and correctness exact"
+confidence margins finite,HARD FAIL,PASS,probability_clip_epsilon=1e-12; clipped_probabilities=0
+signed confidence margin agrees with locked Day-4 label,HARD FAIL,PASS,PrimarySignedMargin >= 0 corresponds to Abnormal
+combined table contains 120 unique validation eyes,HARD FAIL,PASS,"rows=120, unique=120"
+Day-3 and Day-4 view counts agree,HARD FAIL,PASS,"view_count_distribution={2: 1, 6: 119}"
+Day-4 correct count == 110,HARD FAIL,PASS,"observed=110, expected=110"
+Day-4 incorrect count == 10,HARD FAIL,PASS,"observed=10, expected=10"
+combined table has no routing decision,HARD FAIL,PASS,only reliability signals and exploratory diagnostics are present
+"Spearman correlation matrix finite, symmetric, and unit diagonal",HARD FAIL,PASS,all 120 finite validation rows; average ranks for ties; no imputation
+error capture monotonic across bands: Lowest confidence,HARD FAIL,PASS,captured errors must not decrease as the descriptive risk band expands
+error capture monotonic across bands: Highest Day-3 view SD,HARD FAIL,PASS,captured errors must not decrease as the descriptive risk band expands
+error capture monotonic across bands: Highest Day-3 view range,HARD FAIL,PASS,captured errors must not decrease as the descriptive risk band expands
+error capture monotonic across bands: Highest feature atypicality percentile,HARD FAIL,PASS,captured errors must not decrease as the descriptive risk band expands
+risk-coverage utility synthetic tests pass,HARD FAIL,PASS,synthetic_cases_passed=8; zero-accepted NaN behavior included
+all locked inputs unchanged during analysis,HARD FAIL,PASS,all before/after SHA-256 values match

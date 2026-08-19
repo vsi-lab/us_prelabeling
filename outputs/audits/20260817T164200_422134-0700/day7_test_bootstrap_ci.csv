@@ -1,0 +1,13 @@
+Analysis,Metric,PointEstimate,CI95Lower,CI95Upper,ValidReplicates,RequestedReplicates,BootstrapUnit,BootstrapSeed,CIMethod,DataScope
+Day4Classification,AUROC,0.96022727272727271,0.92424588468043967,0.98795189792594051,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+Day4Classification,BalancedAccuracy,0.875,0.8050727691159244,0.93500351405622495,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+Day4Classification,Sensitivity,0.875,0.80000000000000004,0.93975903614457834,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+Day4Classification,Specificity,0.875,0.75738636363636369,0.97368421052631582,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+balanced_agreement_view_sd,AcceptedErrorRate,0.051546391752577317,0.010635498320268756,0.097826086956521743,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+balanced_agreement_view_sd,AcceptedSensitivity,0.94594594594594594,0.88888888888888884,0.98750385802469143,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+balanced_agreement_view_sd,AcceptedSpecificity,0.95652173913043481,0.8571428571428571,1,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+balanced_agreement_view_sd,Coverage,0.80833333333333335,0.73169194507071122,0.87605530832803546,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+conservative_zero_error,AcceptedErrorRate,0.014285714285714285,0,0.046875,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+conservative_zero_error,AcceptedSensitivity,1,1,1,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+conservative_zero_error,AcceptedSpecificity,0.90909090909090906,0.69230769230769229,1,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION
+conservative_zero_error,Coverage,0.58333333333333337,0.48799512195121952,0.67479674796747968,2000,2000,ResearchSubjectID,42,subject-cluster percentile bootstrap,ONE-TIME HELD-OUT TEST EVALUATION

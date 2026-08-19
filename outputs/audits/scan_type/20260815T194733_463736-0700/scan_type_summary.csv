@@ -1,0 +1,26 @@
+Group,Metric,Value
+FULL DATASET,TotalImages,16206.0
+UNKNOWN,TotalImages,398.0
+UNKNOWN,A_SCAN_ONLY_CANDIDATE,325.0
+UNKNOWN,B_SCAN_ONLY_CANDIDATE,5.0
+UNKNOWN,COMBINED_A_B_CANDIDATE,68.0
+UNKNOWN,UNCERTAIN,0.0
+OD_OS,TotalImages,15808.0
+OD_OS,WaveformDetected,15540.0
+OD_OS,WaveformNotDetected,268.0
+OD_OS,BscanOnlyCandidates,267.0
+OD_OS,Uncertain,2.0
+OD,TotalImages,8739.0
+OD,WaveformDetected,8498.0
+OD,WaveformNotDetected,241.0
+OD,BscanOnlyCandidates,241.0
+OD,Uncertain,0.0
+OS,TotalImages,7069.0
+OS,WaveformDetected,7042.0
+OS,WaveformNotDetected,27.0
+OS,BscanOnlyCandidates,26.0
+OS,Uncertain,2.0
+OD_OS,BscanOnlyCandidateSubjects,32.0
+OD_OS,BscanOnlyCandidateEncounters,56.0
+OD_OS,LargestSubjectCandidateImages,135.0
+OD_OS,LargestSubjectCandidateSharePercent,50.561797752808985

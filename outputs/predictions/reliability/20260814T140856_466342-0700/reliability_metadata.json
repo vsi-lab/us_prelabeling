@@ -1,0 +1,165 @@
+{
+  "run_timestamp": "20260814T140856_466342-0700",
+  "started_at": "2026-08-14T14:08:55.886341-07:00",
+  "completed_at": "2026-08-14T14:08:57.828339-07:00",
+  "wall_time_seconds": 1.9369999999998981,
+  "objective": "combined validation reliability signals; descriptive analysis only",
+  "validation_eyes": 120,
+  "day4_correct": 110,
+  "day4_incorrect": 10,
+  "model_retrained": false,
+  "day6_implemented": false,
+  "routing_thresholds_selected": false,
+  "accept_defer_decisions_created": false,
+  "test_data_loaded": false,
+  "test_data_evaluated": false,
+  "test_predictions_loaded": false,
+  "locked_runs": {
+    "day3_baseline": "20260813T134419_044915-0700",
+    "day4_multiview": "20260813T170240_569268-0700",
+    "feature_typicality": "20260814T130502_173490-0700"
+  },
+  "inputs": {
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\val_image_predictions.csv": {
+      "sha256": "78f9762aa1dd823bc5a57333d2826e5ccf622940d6e59b3dfa9f828f04beba90"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\val_eye_predictions.csv": {
+      "sha256": "1b6e8a27d6bf8f985bf2a436dcb7ccc93c606c799a140de50e82cbdee1b4d1d9"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\classification_threshold.json": {
+      "sha256": "daf9e8f2b8cadaa2590ff3ad97b52390cf219c99b35a3758ecb2e934730b44f9"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\run_metadata.json": {
+      "sha256": "f96b1a10330f8daae4317dab733c9f04da2a1e3c38dc9b85dd8982087d7a9946"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\val_eye_predictions.csv": {
+      "sha256": "194257a476648e630870e1a343b4dfcbe82897a949b1774c07df6ffdddac1234"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\classification_threshold.json": {
+      "sha256": "369ae63c078a1aac105e5481c66740f80bf1b6cffde3bfb0253fd70d7dd07d41"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\run_metadata.json": {
+      "sha256": "ed6edf2cb4ce415e6d965fadd5ad9fb413a79600aeffe47a0d6791edec1f5d10"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\val_eye_embeddings.csv": {
+      "sha256": "22563615dd5e2d61ad0cdbdc8225084abd2a5a7a878333eec5d946f05bd22045"
+    },
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_metadata.json": {
+      "sha256": "0b16d43864228a527bc16067ded2e7425f12f249f894e95b41fb3550615a51bd"
+    }
+  },
+  "loaded_csv_paths": [
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\val_eye_embeddings.csv",
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\val_eye_predictions.csv",
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\val_image_predictions.csv",
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\val_eye_predictions.csv"
+  ],
+  "loaded_json_paths": [
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_metadata.json",
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\classification_threshold.json",
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\baseline_resnet18\\20260813T134419_044915-0700\\run_metadata.json",
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\classification_threshold.json",
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\run_metadata.json"
+  ],
+  "confidence": {
+    "probability_source": "locked Day-4 EyeAbnormalProbability",
+    "probability_clip_epsilon": 1e-12,
+    "clipped_probability_count": 0,
+    "primary_logit": "log(clipped p / (1 - clipped p))",
+    "threshold_logit": -2.783677449304705,
+    "primary_signed_margin": "PrimaryLogit - ThresholdLogit",
+    "primary_confidence_margin": "absolute PrimarySignedMargin",
+    "relative_to_probability_0_5": false
+  },
+  "cross_view_disagreement": {
+    "model": "locked Day-3 per-image ResNet-18",
+    "positive_view_threshold": 0.8503254055976868,
+    "standard_deviation_ddof": 0,
+    "single_view_behavior": "SD=0 and range=0; disagreement cannot be meaningfully assessed from one view"
+  },
+  "feature_typicality": {
+    "field_source": "FeatureTypicalityPredictedClass",
+    "output_alias": "FeatureTypicalityDistance",
+    "reference_sets_recomputed": false,
+    "normal_reference_eyes": 61,
+    "abnormal_reference_eyes": 194
+  },
+  "group_summary": {
+    "standard_deviation_ddof": 0,
+    "statistical_significance_claimed": false
+  },
+  "error_capture": {
+    "risk_bands_percent": [
+      10,
+      20,
+      30,
+      40,
+      50
+    ],
+    "band_size_rule": "ceil(validation eyes * percent / 100)",
+    "tie_rule": "risk direction, then EyeExamID ascending; no boundary expansion",
+    "validation_outcomes_used_only_to_count_captured_errors": true,
+    "routing_threshold_created": false,
+    "single_signal_usefulness_rule": "highest mean captured-error count across fixed bands; tie-break 20%, then 10%, then signal name",
+    "most_useful_signal_descriptively": "Lowest confidence"
+  },
+  "overlap": {
+    "exact_ranked_quartile_reported": true,
+    "literal_reference_percentile_at_least_75_reported": true,
+    "feature_unique_errors_in_exact_quartile": 0
+  },
+  "correlations": {
+    "method": "Spearman rank correlation over all 120 finite validation eyes",
+    "tie_ranking": "average ranks",
+    "imputation": false,
+    "p_values_calculated": false,
+    "causal_interpretation": false,
+    "feature_correlations": {
+      "PrimaryConfidenceMargin": -0.704156741831313,
+      "Day3StdViewProbability": 0.6917771402637385,
+      "Day3ViewProbabilityRange": 0.6850764463214916
+    },
+    "interpretation": "Feature typicality is not identical to confidence or disagreement, but it is substantially correlated with them and adds limited incremental error capture in the exploratory exact top-quarter overlap."
+  },
+  "risk_coverage_utility": {
+    "module": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\src\\evaluation\\reliability_metrics.py",
+    "abnormal_is_positive": true,
+    "zero_accepted_conditional_rates": "NaN",
+    "zero_accepted_false_negative_count": 0,
+    "embedded_synthetic_cases_passed": 8,
+    "thresholds_selected": false
+  },
+  "script": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\scripts\\09_build_reliability_signals.py",
+  "script_sha256": "2665f7e7ab31ec1675f2778832915773f9d9b07b01b74b02370d3883ed98bcb0",
+  "utility_module_sha256": "68894f92878b1c948fed5931fc667e96b300ad81168b1729901d85a30c15d63a",
+  "unit_test_file_sha256": "8046c9f6cdda24be8f6b8ca0af05cc1569e10bf63c86118e42cfc09c5370a1cb",
+  "git_commit_hash": "54b5a7cd1f1ea58cc469e12f27b2a1d205610359",
+  "git_worktree_status_at_completion": [
+    "?? AGENTS.md",
+    "?? docs/",
+    "?? outputs/",
+    "?? scripts/02_build_eye_dataset.py",
+    "?? scripts/09_build_reliability_signals.py",
+    "?? src/",
+    "?? tests/"
+  ],
+  "environment": {
+    "python_version": "3.10.20",
+    "python_executable": "C:\\Users\\vasu2\\miniconda3\\envs\\ml_gpu_pytorch\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "numpy_version": "2.2.6",
+    "pandas_version": "2.3.3",
+    "matplotlib_version": "3.10.9",
+    "scipy_version": "1.15.3"
+  },
+  "artifacts": {
+    "val_reliability_signals": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\predictions\\reliability\\20260814T140856_466342-0700\\val_reliability_signals.csv",
+    "checks": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T140856_466342-0700\\day5_reliability_checks.csv",
+    "summary": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T140856_466342-0700\\day5_reliability_summary.csv",
+    "error_capture": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T140856_466342-0700\\day5_error_capture.csv",
+    "signal_correlations": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T140856_466342-0700\\day5_signal_correlations.csv",
+    "signal_overlap": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T140856_466342-0700\\day5_signal_overlap.csv",
+    "signal_usefulness": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T140856_466342-0700\\day5_signal_usefulness.csv",
+    "figure_directory": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\figures\\reliability\\20260814T140856_466342-0700"
+  }
+}

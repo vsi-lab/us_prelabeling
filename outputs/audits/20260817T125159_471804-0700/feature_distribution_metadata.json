@@ -1,0 +1,154 @@
+{
+  "centroid_baseline": "Cosine distance from L2-normalized eye feature to unit-normalized predicted-class reference centroid; right-continuous empirical class percentile.",
+  "checkpoint_loaded": false,
+  "completed_at": "2026-08-17T12:52:19.101234-07:00",
+  "data_scope": "TRAIN + VALIDATION ONLY",
+  "feature_dimension": 512,
+  "frozen_routing_rules_modified": false,
+  "git_commit": "54b5a7cd1f1ea58cc469e12f27b2a1d205610359",
+  "knn_method": {
+    "distance": "Mean cosine distance to k nearest L2-normalized references from the Day-4 predicted class.",
+    "k_values": [
+      3,
+      5,
+      10
+    ],
+    "k_values_similar": false,
+    "percentile": "100 * count(reference LOO distance <= query distance) / class reference count.",
+    "reference_distribution": "For each reference eye, mean distance to k nearest other same-class references (leave-one-out).",
+    "selected_k": 10,
+    "selection_reason": "k values did not meet the similarity rubric; selected lexicographically by error-detection AUROC, top-25% error capture, then closeness to k=5."
+  },
+  "loaded_input_paths": [
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_centroids.npz",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_eye_distances.csv",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_metadata.json",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\train_eye_embeddings.csv",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\val_eye_embeddings.csv",
+    "outputs\\predictions\\reliability\\20260814T141442_497529-0700\\val_reliability_signals.csv"
+  ],
+  "mahalanobis": {
+    "calculated": false,
+    "primary_method": false,
+    "status": "Skipped: the numerically stable Ledoit-Wolf fit yielded a degenerate in-sample-calibrated validation percentile distribution; a defensible out-of-fold calibration would add substantial methodology beyond this focused comparison."
+  },
+  "method_conclusion": {
+    "code": "B",
+    "no_statistical_significance_claim": true,
+    "statement": "KNN feature typicality separates validation errors descriptively and can improve simpler confidence-based rules, but adds little beyond the existing view-disagreement signals.",
+    "validation_only": true
+  },
+  "model_retrained": false,
+  "numpy_version": "2.2.6",
+  "outputs": {
+    "checks": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260817T125159_471804-0700\\feature_distribution_checks.csv",
+    "comparison": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260817T125159_471804-0700\\feature_distribution_comparison.csv",
+    "error_analysis": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260817T125159_471804-0700\\feature_distribution_error_analysis.csv",
+    "frontier": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260817T125159_471804-0700\\feature_distribution_frontier.csv",
+    "reference_distances": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260817T125159_471804-0700\\feature_distribution_reference_distances.csv",
+    "routing_ablation": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260817T125159_471804-0700\\feature_distribution_routing_ablation.csv",
+    "summary": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260817T125159_471804-0700\\feature_distribution_summary.md"
+  },
+  "pandas_version": "2.3.3",
+  "python_version": "3.10.20",
+  "reference_counts": {
+    "Abnormal": 194,
+    "Normal": 61
+  },
+  "reference_rule": "Within true training class: correct Day-4 predictions only; PrimaryConfidenceMargin descending then EyeExamID ascending; ceil(top 50%).",
+  "routing": {
+    "any_strict_knn_benefit": true,
+    "comparators": {
+      "agreement": "== True",
+      "confidence": ">=",
+      "knn_percentile": "<=",
+      "view_sd": "<="
+    },
+    "data": "validation only",
+    "enumeration": {
+      "c": {
+        "AttainableAcceptedCounts": 121,
+        "MaximumAcceptedCount": 120,
+        "RawThresholdConfigurations": 121,
+        "UniqueAcceptanceSets": 121
+      },
+      "c_agreement": {
+        "AttainableAcceptedCounts": 113,
+        "MaximumAcceptedCount": 112,
+        "RawThresholdConfigurations": 121,
+        "UniqueAcceptanceSets": 113
+      },
+      "c_agreement_knn": {
+        "AttainableAcceptedCounts": 113,
+        "MaximumAcceptedCount": 112,
+        "RawThresholdConfigurations": 8591,
+        "UniqueAcceptanceSets": 1538
+      },
+      "c_agreement_view_sd": {
+        "AttainableAcceptedCounts": 113,
+        "MaximumAcceptedCount": 112,
+        "RawThresholdConfigurations": 14641,
+        "UniqueAcceptanceSets": 1694
+      },
+      "c_agreement_view_sd_knn": {
+        "AttainableAcceptedCounts": 113,
+        "MaximumAcceptedCount": 112,
+        "RawThresholdConfigurations": 1039511,
+        "UniqueAcceptanceSets": 11184
+      },
+      "c_knn": {
+        "AttainableAcceptedCounts": 121,
+        "MaximumAcceptedCount": 120,
+        "RawThresholdConfigurations": 8591,
+        "UniqueAcceptanceSets": 1595
+      },
+      "c_view_sd": {
+        "AttainableAcceptedCounts": 121,
+        "MaximumAcceptedCount": 120,
+        "RawThresholdConfigurations": 14641,
+        "UniqueAcceptanceSets": 1898
+      },
+      "c_view_sd_knn": {
+        "AttainableAcceptedCounts": 121,
+        "MaximumAcceptedCount": 120,
+        "RawThresholdConfigurations": 1039511,
+        "UniqueAcceptanceSets": 11948
+      }
+    },
+    "envelope_masks_may_be_nonnested": true,
+    "envelope_objective": "At each accepted count: fewest errors, then fewest false negatives, then highest balanced accuracy, then least-restrictive extra gates and deterministic EyeExamID tie-break.",
+    "selected_knn_unique_errors_beyond_confidence_and_view_sd": 0,
+    "strict_benefit_beyond_view_sd": false,
+    "strict_benefit_by_strategy": {
+      "c_agreement_knn": true,
+      "c_agreement_view_sd_knn": false,
+      "c_knn": true,
+      "c_view_sd_knn": false
+    },
+    "strict_improvement": "Same accepted count with fewer errors OR same accepted-error constraint with higher maximum coverage.",
+    "targets_percent": [
+      50,
+      60,
+      70,
+      75,
+      80,
+      90
+    ]
+  },
+  "run_id": "20260817T125159_471804-0700",
+  "script": "scripts\\12_improve_feature_distribution.py",
+  "script_sha256": "b2c1d5731f12c71207a1a7cbbbf18386a575f271fd8187a1d6f0d61fa1010a7d",
+  "source_files": {
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_centroids.npz": "bd92d9eb1a0361a2154c153ec75adc702be41b64745da6e36730b595740b9f5d",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_eye_distances.csv": "6a7146a54ccd41ae5703dd5a6dd9844ac02825c073b3f5b5ca6c83748b688b51",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\reference_metadata.json": "0b16d43864228a527bc16067ded2e7425f12f249f894e95b41fb3550615a51bd",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\train_eye_embeddings.csv": "4c51fdfd5e4bcc5583974c43d9e0563105ebb04e18f019c65236a236d06b77d8",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\val_eye_embeddings.csv": "22563615dd5e2d61ad0cdbdc8225084abd2a5a7a878333eec5d946f05bd22045",
+    "outputs\\predictions\\reliability\\20260814T141442_497529-0700\\val_reliability_signals.csv": "a767b163b3565a9fe664068c5fd18e96e4f13bf4dea7040ee179f098b477edb8"
+  },
+  "stage": "Day 5 feature-distribution improvement before held-out evaluation",
+  "started_at": "2026-08-17T12:51:59.471804-07:00",
+  "test_data_loaded": false,
+  "test_set_evaluated": false,
+  "test_status": "TEST SET NOT LOADED OR EVALUATED"
+}

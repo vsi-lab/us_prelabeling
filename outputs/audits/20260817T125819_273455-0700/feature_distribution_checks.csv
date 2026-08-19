@@ -1,0 +1,46 @@
+Check,Status,Observed,Expected,Details,DataScope,TestStatus
+Locked Day-5 metadata records test_manifest_loaded=False,PASS,False,False,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Locked Day-5 metadata records test_set_evaluated=False,PASS,False,False,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Locked Day-5 metadata records test_embeddings_extracted=False,PASS,False,False,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Locked Day-5 metadata records test_predictions_created=False,PASS,False,False,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Training feature schema contains exactly Feature_000 through Feature_511,PASS,512,512,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation feature schema contains exactly Feature_000 through Feature_511,PASS,512,512,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Training eye count,PASS,560,560,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation eye count,PASS,120,120,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Training EyeExamID is unique,PASS,560,560,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation EyeExamID is unique,PASS,120,120,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Training subject count,PASS,179,179,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation subject count,PASS,95,95,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Training and validation subjects are disjoint,PASS,0,0,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Training and validation EyeExamIDs are disjoint,PASS,0,0,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Training labels are Normal/Abnormal,PASS,"['Abnormal', 'Normal']","['Abnormal', 'Normal']",,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation labels are Normal/Abnormal,PASS,"['Abnormal', 'Normal']","['Abnormal', 'Normal']",,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Reliability labels are Normal/Abnormal,PASS,"['Abnormal', 'Normal']","['Abnormal', 'Normal']",,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation label counts reproduce the locked cohort,PASS,"{'Abnormal': 88, 'Normal': 32}","{'Normal': 32, 'Abnormal': 88}",,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation correct/incorrect counts reproduce Day 4,PASS,"{'correct': 110, 'incorrect': 10}","{'correct': 110, 'incorrect': 10}",,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation embeddings and reliability table contain identical EyeExamIDs,PASS,0,0,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation identity and predictions match the locked reliability table,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Validation Day-4 probabilities match the locked reliability table,PASS,0.0,<= 1e-15,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+No out-of-allowlist EyeExamID (including any test EyeExamID) enters analysis,PASS,0,0,Operationalized against exact hash-pinned train/validation ID sets so no test-ID file is loaded.,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+All normalized pooled embeddings are finite,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Abnormal frozen reference count,PASS,194,194,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Abnormal frozen reference IDs reproduce the Day-5 rule,PASS,0,0,Correct training eyes only; confidence descending; EyeExamID tie-break; ceil(top 50%).,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Normal frozen reference count,PASS,61,61,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Normal frozen reference IDs reproduce the Day-5 rule,PASS,0,0,Correct training eyes only; confidence descending; EyeExamID tie-break; ceil(top 50%).,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+No validation eye enters the reference database,PASS,0,0,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Recomputed class centroids match frozen Day-5 centroids,PASS,5.551115123125783e-17,<= 1e-12,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Recomputed reference-eye centroid distances match Day 5,PASS,2.55351295663786e-15,<= 1e-12,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Centroid cosine typicality reproduces Day 5,PASS,2.3314683517128287e-15,<= 1e-12,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Centroid empirical percentiles reproduce Day 5,PASS,0.0,<= 1e-12,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+All feature-distribution comparison values are finite,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+"All reference percentiles are within [0,100]",PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+C + KNN envelope includes a nonbinding-KNN reproduction of its base,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+C + Agreement + KNN envelope includes a nonbinding-KNN reproduction of its base,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+C + ViewSD + KNN envelope includes a nonbinding-KNN reproduction of its base,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+C + Agreement + ViewSD + KNN envelope includes a nonbinding-KNN reproduction of its base,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+All requested routing coverage targets are exactly attainable,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+All candidate routing thresholds replay their saved validation metrics,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Locked input artifacts were unchanged during analysis,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Loaded input registry contains only the six fixed train/validation artifacts,PASS,6,6,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+No test artifact path was loaded,PASS,True,True,,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED
+Test set was not loaded or evaluated,PASS,True,True,The script has no test input path and uses a fixed allowlist of hash-pinned train/validation artifacts.,TRAIN + VALIDATION ONLY,TEST SET NOT LOADED OR EVALUATED

@@ -1,0 +1,49 @@
+{
+  "audit_run_id": "20260814T161859_125735-0700",
+  "balanced": {
+    "coverage_window": [
+      0.7,
+      0.8
+    ],
+    "envelope_masks_may_be_nonnested": true,
+    "frozen_matched_ablation": "Confidence + model agreement + view SD",
+    "maximum_accepted_count_with_those_results": 90,
+    "minimum_accepted_errors_in_window": 1,
+    "minimum_false_negatives_among_minimum_error_solutions": 1,
+    "next_count_envelope_solution_error_count": 2,
+    "selection_rule": "within 70%-80% coverage: minimum accepted errors, then minimum accepted false negatives, then maximum coverage; remove the nonbinding feature-typicality gate to freeze the exact matched simpler ablation",
+    "simpler_nearby_rule": {
+      "accepted_count": 89,
+      "accepted_errors": 1,
+      "coverage": 0.7416666666666667,
+      "false_negatives": 1,
+      "strategy": "Confidence + view SD"
+    },
+    "source_frontier_solution": {
+      "accepted_count": 90,
+      "accepted_errors": 1,
+      "coverage": 0.75,
+      "false_negatives": 1,
+      "feature_gate_active": false,
+      "feature_percentile_threshold": 98.36065573770492,
+      "strategy": "Confidence + agreement + view SD + feature typicality",
+      "strategy_id": "full_reliability"
+    }
+  },
+  "checks": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T161859_125735-0700\\frozen_routing_rule_checks.csv",
+  "conservative": {
+    "maximum_zero_error_accepted_count": 69,
+    "selection_rule": "maximum nonempty zero-error accepted count, then lowest strategy complexity, then StrategyID",
+    "strategies_at_maximum_zero_error_coverage": [
+      "Confidence only",
+      "Confidence + view SD"
+    ],
+    "zero_error_solution_count": 274
+  },
+  "frozen_csv_sha256": "2ac7c7b79c63df75a7f2578e5804243afe55bc37a378decce21b57bde5257a78",
+  "frozen_json_sha256": "d042f0032068e0528a64122cc5fde967fe3d7240db95be7606ac3b7390c0ced3",
+  "lock_action": "REPRODUCIBLE_EXISTING_LOCK",
+  "test_data_loaded": false,
+  "test_set_evaluated": false,
+  "validation_replay": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T161859_125735-0700\\frozen_routing_validation_replay.csv"
+}

@@ -1,0 +1,28 @@
+Category,Check,Status,Details
+HARD FAIL,encounter_required_columns,PASS,missing=[]
+HARD FAIL,manifest_required_columns,PASS,missing=[]
+HARD FAIL,encounter_composite_keys,PASS,invalid_or_duplicate_rows=0
+HARD FAIL,image_composite_keys,PASS,invalid_or_duplicate_rows=0
+HARD FAIL,manifest_encounter_foreign_keys,PASS,orphan_encounter_keys=0
+HARD FAIL,manifest_laterality_allowed_values,PASS,invalid_rows=0; invalid_values=[]
+HARD FAIL,expected_release_v2_release_version,PASS,expected=v2; observed=v2
+HARD FAIL,expected_release_v2_encounter_count,PASS,expected=2296; observed=2296
+HARD FAIL,expected_release_v2_subject_count,PASS,expected=1129; observed=1129
+HARD FAIL,expected_release_v2_full_image_count,PASS,expected=16206; observed=16206
+HARD FAIL,expected_release_v2_reviewed_encounter_count,PASS,expected=1378; observed=1378
+HARD FAIL,expected_release_v2_unreviewed_encounter_count,PASS,expected=918; observed=918
+HARD FAIL,expected_release_v2_unknown_image_count,PASS,expected=398; observed=398
+HARD FAIL,expected_release_v2_bscan_candidate_image_count,PASS,expected=15808; observed=15808
+HARD FAIL,expected_release_v2_bscan_candidate_encounter_count,PASS,expected=2245; observed=2245
+HARD FAIL,expected_release_v2_bscan_candidate_subject_count,PASS,expected=1106; observed=1106
+HARD FAIL,release_manifest_counts_match_tables,PASS,mismatched_fields=0
+HARD FAIL,ODImageCount_matches_manifest,PASS,mismatched_encounters=0
+HARD FAIL,OSImageCount_matches_manifest,PASS,mismatched_encounters=0
+HARD FAIL,UnknownLateralityImageCount_matches_manifest,PASS,mismatched_encounters=0
+HARD FAIL,TotalImageCount_matches_manifest,PASS,mismatched_encounters=0
+HARD FAIL,eligible_normal_abnormal_eyes_have_findings,PASS,blank_finding_eyes=0
+HARD FAIL,eye_labels_match_encounter_classification,PASS,mismatched_encounters=0
+WARNING / HOLD,reviewed_laterality_conflicts,WARNING / HOLD,conflict_rows=4; affected provisional eyes held=4
+WARNING / HOLD,global_exact_duplicate_images,WARNING / HOLD,duplicate_hash_groups=105; redundant_copies=135
+WARNING / HOLD,exact_duplicates_within_eligible_eyes,WARNING / HOLD,affected_eyes=39; redundant_copies=51
+WARNING / HOLD,postoperative_context_review_queue,WARNING / HOLD,flagged_provisional_eyes=788; review flag only

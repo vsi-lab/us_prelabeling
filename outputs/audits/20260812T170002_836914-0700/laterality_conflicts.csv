@@ -1,0 +1,5 @@
+ResearchSubjectID,EncounterID,ReviewStatus,EncounterClassification,EyeStatus,EyeFindings,EyeImageQuality,SurgicalContextTags,ReviewerNotes,Laterality,ManifestImageCount,AuditHold,AuditHoldReason,IncludePrimary
+EYE-A26KSUBGXONZ,ENC-RWZQOLHQ6MUC,Reviewed,Abnormal,Not imaged,,,PPV / vitrectomy mentioned,,OD,6,True,Laterality conflict,False
+EYE-GCYFN6BC4GEN,ENC-BQONDNKHFT7K,Reviewed,Abnormal,Not imaged,,,PPV / vitrectomy mentioned,"OD: Emulsified oil droplet suspected, OS 1장은 방향 잘못 입력한것으로 OD 가 맞음",OS,1,True,Laterality conflict,False
+EYE-QESOOQ7ZQGXN,ENC-ERPPIQOWPICK,Reviewed,Abnormal,Not imaged,,,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,True,Laterality conflict,False
+EYE-QZKNYIZG75IB,ENC-V3W5AVBFUSAV,Reviewed,Abnormal,Not imaged,,,,,OS,6,True,Laterality conflict,False

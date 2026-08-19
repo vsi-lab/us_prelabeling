@@ -1,0 +1,78 @@
+{
+  "run_id": "20260818T160345_384544-0700",
+  "started_at": "2026-08-18T16:03:44.588564-07:00",
+  "completed_at": "2026-08-18T16:03:45.832041-07:00",
+  "stage": "Prof. Ahn residual-PCA feature-typicality follow-up",
+  "data_scope": "TRAIN + VALIDATION ONLY",
+  "test_status": "TEST SET NOT LOADED OR EVALUATED",
+  "model_retrained": false,
+  "image_inference_performed": false,
+  "frozen_routing_rules_modified": false,
+  "method": {
+    "classifier_direction": "Day-4 Abnormal classifier weight minus Normal classifier weight; unit normalized",
+    "class_reference_rule": "all correctly classified training eyes within true class; no confidence filter",
+    "class_reference_counts": {
+      "Normal": 121,
+      "Abnormal": 388
+    },
+    "centering": "subtract predicted/true class correctly-classified training mean",
+    "residualization": "remove orthogonal projection onto the unit classifier direction",
+    "pca": "separate per class; sklearn PCA whiten=True; svd_solver=full; up to 32 components",
+    "components_by_class": {
+      "Abnormal": 32,
+      "Normal": 32
+    },
+    "distance": "mean Euclidean distance in whitened residual-PCA space to 10 same-class references",
+    "training_calibration": "leave-one-out neighbors; self-distance set to infinity",
+    "validation_class_choice": "Day-4 predicted class only",
+    "percentile": "right-continuous empirical percentile: 100 * count(training LOO distance <= query distance) / class reference count",
+    "routing_followup": "exactly one prespecified gate: frozen balanced rule AND ResidualPCAReferencePercentile <= 95"
+  },
+  "checkpoint": {
+    "checkpoint_epoch": 1,
+    "classifier_direction_norm_before_normalization": 0.8085006110096069
+  },
+  "input_sha256": {
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\train_eye_embeddings.csv": "4c51fdfd5e4bcc5583974c43d9e0563105ebb04e18f019c65236a236d06b77d8",
+    "outputs\\features\\multiview_resnet18\\20260814T130502_173490-0700\\val_eye_embeddings.csv": "22563615dd5e2d61ad0cdbdc8225084abd2a5a7a878333eec5d946f05bd22045",
+    "outputs\\predictions\\reliability\\20260814T141442_497529-0700\\val_reliability_signals.csv": "a767b163b3565a9fe664068c5fd18e96e4f13bf4dea7040ee179f098b477edb8",
+    "outputs\\models\\multiview_resnet18\\20260813T170240_569268-0700\\best_model.pt": "3c6d402ddbd2d1055cb68458bc6f5a7c880ac683a4527ff5171cc6f2408c754b",
+    "outputs\\models\\selective_routing\\frozen_routing_rules.json": "d042f0032068e0528a64122cc5fde967fe3d7240db95be7606ac3b7390c0ced3",
+    "outputs\\audits\\20260817T125819_273455-0700\\feature_distribution_comparison.csv": "bb976c0d8ce461be6164caf4ca97e93b09142d4c07a0b9500f996180e4a1ea30",
+    "outputs\\audits\\20260817T125819_273455-0700\\feature_distribution_metadata.json": "192cea121197165bbe1a3ecb41d55d4b4eb373b9d18a06237c79ee410631fc24"
+  },
+  "script": "scripts\\14_residual_pca_typicality.py",
+  "script_sha256": "7dbc45d04fb79926958019ddb31f6c7afadc1027e340f9bda31cc8ad92013694",
+  "seed": 42,
+  "versions": {
+    "python": "3.10.20",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.7.2",
+    "torch": "2.5.1+cu121"
+  },
+  "comparison": {
+    "centroid_error_detection_auroc": 0.7472727272727273,
+    "knn10_error_detection_auroc": 0.7209090909090909,
+    "residual_pca_error_detection_auroc": 0.43,
+    "residual_pca_spearman_with_confidence": 0.3431970125181799
+  },
+  "balanced_accepted_error": {
+    "eye_exam_id": "EYE-U3LL2DQ7PKOU__ENC-MJIRWLUPTHHP__OS",
+    "residual_pca_percentile": 1.6528925619834711,
+    "caught_by_percentile_above_95": false
+  },
+  "outputs": {
+    "scores": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_validation_scores.csv",
+    "references": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_training_reference_distances.csv",
+    "comparison": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_method_comparison.csv",
+    "routing": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_routing_check.csv",
+    "accepted_error": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_balanced_accepted_error_check.csv",
+    "checks": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_checks.csv",
+    "parameters": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_parameters.npz",
+    "metadata": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_metadata.json",
+    "summary": "outputs\\audits\\20260818T160345_384544-0700\\residual_pca_summary.md"
+  },
+  "test_data_loaded": false,
+  "test_set_evaluated": false
+}

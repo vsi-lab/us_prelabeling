@@ -1,0 +1,39 @@
+Check,Severity,Status,Details
+Day-4 script hash locked,HARD FAIL,PASS,sha256=058de002bf0599602b9787bce887e2478571a9865e7a78c7c6fce3a279ab577c
+Day-4 checkpoint hash locked,HARD FAIL,PASS,sha256=3c6d402ddbd2d1055cb68458bc6f5a7c880ac683a4527ff5171cc6f2408c754b
+Day-4 config_used hash locked,HARD FAIL,PASS,sha256=983120e1e0fba2bb9e56e3ac3fa0f774eda60822dea1ceb10adc01b5f12466bf
+Day-4 validation predictions hash locked,HARD FAIL,PASS,sha256=194257a476648e630870e1a343b4dfcbe82897a949b1774c07df6ffdddac1234
+Day-4 classification threshold hash locked,HARD FAIL,PASS,sha256=369ae63c078a1aac105e5481c66740f80bf1b6cffde3bfb0253fd70d7dd07d41
+Day-4 run metadata hash locked,HARD FAIL,PASS,sha256=ed6edf2cb4ce415e6d965fadd5ad9fb413a79600aeffe47a0d6791edec1f5d10
+training manifest hash locked,HARD FAIL,PASS,sha256=5df6765a3df29ca3f107758369fd1c17a92b1fcd336ec79991c823482711c4ad
+validation manifest hash locked,HARD FAIL,PASS,sha256=91846df6c0f3d1a153e1c8a03da4e92be561cab29736236774ac32ef9802e567
+locked Day-4 metadata and threshold consistent,HARD FAIL,PASS,run=20260813T170240_569268-0700; threshold=0.058212615549564362
+training eyes == 560,HARD FAIL,PASS,"observed=560, expected=560"
+validation eyes == 120,HARD FAIL,PASS,"observed=120, expected=120"
+train/validation subjects disjoint,HARD FAIL,PASS,intersection_count=0
+training EyeExamIDs unique,HARD FAIL,PASS,"unique=560, rows=560"
+validation EyeExamIDs unique,HARD FAIL,PASS,"unique=120, rows=120"
+checkpoint architecture and config match locked Day 4,HARD FAIL,PASS,"ResNet-18; masked feature-wise MAX; Linear(512,2); strict config match"
+frozen checkpoint feature dimension == 512,HARD FAIL,PASS,"observed=512, expected=512"
+model parameters frozen,HARD FAIL,PASS,all requires_grad flags must be False
+training pooled EyeExamIDs unique,HARD FAIL,PASS,"rows=560, unique=560"
+validation pooled EyeExamIDs unique,HARD FAIL,PASS,"rows=120, unique=120"
+feature dimensions consistent,HARD FAIL,PASS,"train=(560, 512), validation=(120, 512)"
+training embeddings finite,HARD FAIL,PASS,nonfinite_values=0
+validation embeddings finite,HARD FAIL,PASS,nonfinite_values=0
+"all probabilities in [0,1]",HARD FAIL,PASS,checked frozen training and validation eye probabilities
+locked Day-4 validation probabilities reproduced,HARD FAIL,PASS,max_abs_difference=0; rtol=1e-06; atol=1e-07
+all pooled embedding norms positive,HARD FAIL,PASS,minimum_norm=23.7615614103
+Normal reference class present and sufficiently large,HARD FAIL,PASS,"reference_eyes=61, minimum=20"
+Abnormal reference class present and sufficiently large,HARD FAIL,PASS,"reference_eyes=194, minimum=20"
+reference centroids finite,HARD FAIL,PASS,Normal and Abnormal unit centroids checked
+reference centroids unit-normalized,HARD FAIL,PASS,"centroid_norms={'Normal': 1.0, 'Abnormal': 1.0}"
+primary typicality uses predicted class,HARD FAIL,PASS,true validation labels were not used to select the primary centroid
+validation cosine distances finite and bounded,HARD FAIL,PASS,"expected cosine-distance interval is [0,2] up to numerical tolerance"
+"reference percentiles finite and in [0,100]",HARD FAIL,PASS,right-continuous empirical class-reference ECDF
+locked manifests unchanged during extraction,HARD FAIL,PASS,train=5df6765a3df29ca3f107758369fd1c17a92b1fcd336ec79991c823482711c4ad; validation=91846df6c0f3d1a153e1c8a03da4e92be561cab29736236774ac32ef9802e567
+frozen checkpoint unchanged during extraction,HARD FAIL,PASS,checkpoint_sha256=3c6d402ddbd2d1055cb68458bc6f5a7c880ac683a4527ff5171cc6f2408c754b
+only train/validation manifests loaded,HARD FAIL,PASS,"loaded=['F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\data\\processed\\model_inputs\\train_images.csv', 'F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\data\\processed\\model_inputs\\val_images.csv']"
+test data not loaded or evaluated,HARD FAIL,PASS,test_manifest_loaded=False; test_set_evaluated=False; test_embeddings_extracted=False
+feature artifacts contain no duplicate EyeExamIDs,HARD FAIL,PASS,one pooled representation per eye in each embedding CSV
+feature artifacts have exactly 512 feature columns,HARD FAIL,PASS,expected Feature_000 through Feature_511

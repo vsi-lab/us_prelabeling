@@ -1,0 +1,4 @@
+DatasetSplit,LockStatus,OrderingRule,MaximumViews,Eyes,SelectedImages,MeanSelectedImagesPerEye,MedianSelectedImagesPerEye,SourceEyesReducedFromMoreThan6,EyesWith1SelectedImages,EyesWith2SelectedImages,EyesWith3SelectedImages,EyesWith4SelectedImages,EyesWith5SelectedImages,EyesWith6SelectedImages
+train,REPRODUCIBLE_EXISTING,ImageRelativePath ascending (no acquisition-order field available),6,560,3324,5.935714285714286,6.0,50,3,1,2,4,3,547
+validation,REPRODUCIBLE_EXISTING,ImageRelativePath ascending (no acquisition-order field available),6,120,716,5.966666666666667,6.0,7,0,1,0,0,0,119
+test,REPRODUCIBLE_EXISTING,ImageRelativePath ascending (no acquisition-order field available),6,120,720,6.0,6.0,13,0,0,0,0,0,120

@@ -1,0 +1,44 @@
+Scope,Check,Status,Details
+overall,image_manifest_exists,PASS,F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\data\interim\bscan_eye_image_manifest.csv
+train,locked_eye_split_exists,PASS,F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\data\splits\train_eye_exams.csv
+validation,locked_eye_split_exists,PASS,F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\data\splits\val_eye_exams.csv
+test,locked_eye_split_exists,PASS,F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\data\splits\test_eye_exams.csv
+overall,image_manifest_required_columns,PASS,missing=[]
+train,locked_eye_split_required_columns,PASS,missing=[]
+validation,locked_eye_split_required_columns,PASS,missing=[]
+test,locked_eye_split_required_columns,PASS,missing=[]
+overall,include_model_input_boolean_valid,PASS,invalid_values=[]
+train,locked_dataset_split_value,PASS,expected=train; observed=['train']
+train,locked_eye_exam_id_unique,PASS,rows=560; unique=560
+validation,locked_dataset_split_value,PASS,expected=validation; observed=['validation']
+validation,locked_eye_exam_id_unique,PASS,rows=120; unique=120
+test,locked_dataset_split_value,PASS,expected=test; observed=['test']
+test,locked_eye_exam_id_unique,PASS,rows=120; unique=120
+overall,locked_split_union_is_800_unique_eyes,PASS,rows=800; unique_eye_ids=800
+overall,each_locked_eye_occurs_in_exactly_one_split,PASS,duplicate_rows=0
+overall,train_intersection_validation,PASS,intersection_subjects=0
+overall,train_intersection_test,PASS,intersection_subjects=0
+overall,validation_intersection_test,PASS,intersection_subjects=0
+overall,research_subject_separation_remains_intact,PASS,train_intersection_validation=0; train_intersection_test=0; validation_intersection_test=0
+overall,every_locked_eye_has_usable_image,PASS,eyes_without_usable_images=0
+overall,locked_unique_image_counts_match_manifest,PASS,mismatched_eyes=0
+overall,repeated_execution_selects_identical_paths,PASS,selected_paths=4760
+overall,selected_images_belong_to_stated_eye_exam_id,PASS,unmapped_rows=0; component_mismatches=0
+overall,all_800_eyes_occur_in_one_selected_input_split,PASS,selected_eye_ids=800; missing=0; added=0
+overall,selected_laterality_only_od_os,PASS,invalid_rows=0
+overall,no_unknown_laterality_selected,PASS,unknown_rows=0
+overall,every_selected_image_was_include_model_input,PASS,invalid_rows=0
+overall,no_sha_duplicate_selected_within_eye,PASS,duplicate_rows=0
+overall,no_image_path_selected_twice_within_eye,PASS,duplicate_rows=0
+overall,every_eye_has_at_least_one_selected_image,PASS,eyes=800; zero_image_eyes=0
+overall,no_eye_has_more_than_six_selected_images,PASS,maximum_selected=6
+overall,eyes_with_le6_retain_all_usable_images,PASS,eligible_eyes=730
+overall,eyes_with_gt6_have_exactly_six_selected_images,PASS,reduced_eyes=70
+overall,dataset_split_agrees_with_locked_step4_split,PASS,selected EyeExamID sets and DatasetSplit values match locked eye files
+train,selected_eye_set_matches_locked_split,PASS,selected_eyes=560; locked_eyes=560
+train,selected_image_count_range_1_to_6,PASS,minimum=1; maximum=6
+validation,selected_eye_set_matches_locked_split,PASS,selected_eyes=120; locked_eyes=120
+validation,selected_image_count_range_1_to_6,PASS,minimum=2; maximum=6
+test,selected_eye_set_matches_locked_split,PASS,selected_eyes=120; locked_eyes=120
+test,selected_image_count_range_1_to_6,PASS,minimum=6; maximum=6
+overall,locked_model_input_selection_matches_recomputed_paths,PASS,existing_files=0/3; lock_status=CREATED

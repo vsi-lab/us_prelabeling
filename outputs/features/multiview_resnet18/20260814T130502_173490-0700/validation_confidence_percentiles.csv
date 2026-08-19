@@ -1,0 +1,5 @@
+ValidationConfidencePercentile,PrimaryConfidenceMarginCutoff,AllValidationEyesAtOrAbove,IncorrectEyesAtOrAbove
+50,2.7413701713085175,60,0
+75,4.9795351231881426,30,0
+90,5.7536701346226975,12,0
+95,6.189282777387743,6,0

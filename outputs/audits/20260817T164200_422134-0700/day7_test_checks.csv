@@ -1,0 +1,82 @@
+Check,Status,Observed,Expected,Severity
+required frozen artifact exists: test_images.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: test_images.csv,PASS,4e5434be662a00e925bc1bdf547ad88cba4a9f7dfbd1f77608515065ccbd386f,4e5434be662a00e925bc1bdf547ad88cba4a9f7dfbd1f77608515065ccbd386f,HARD FAIL
+required frozen artifact exists: train_eye_exams.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: train_eye_exams.csv,PASS,0438e38278230c6a9a5d33f49ebb068386976d7fd1588a35ddd3f51d7e3a0daa,0438e38278230c6a9a5d33f49ebb068386976d7fd1588a35ddd3f51d7e3a0daa,HARD FAIL
+required frozen artifact exists: val_eye_exams.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: val_eye_exams.csv,PASS,9dfedd79c42f9ac843c9f71150feb4879351eeb57be9dd5cfea0b7d83a432a65,9dfedd79c42f9ac843c9f71150feb4879351eeb57be9dd5cfea0b7d83a432a65,HARD FAIL
+required frozen artifact exists: test_eye_exams.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: test_eye_exams.csv,PASS,fbfea25f3d81f9178357dd7128542c1972292c5bb79ebdd632688c820246254e,fbfea25f3d81f9178357dd7128542c1972292c5bb79ebdd632688c820246254e,HARD FAIL
+required frozen artifact exists: train_subjects.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: train_subjects.csv,PASS,b537b1d077f5c5904aae61121e658ad37fa81c913804a1c1f2da5786fe52a7c2,b537b1d077f5c5904aae61121e658ad37fa81c913804a1c1f2da5786fe52a7c2,HARD FAIL
+required frozen artifact exists: val_subjects.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: val_subjects.csv,PASS,36faa79ca2493c798a343ace4dcde645211ed04e82471a8ed2f927f870b72fa7,36faa79ca2493c798a343ace4dcde645211ed04e82471a8ed2f927f870b72fa7,HARD FAIL
+required frozen artifact exists: test_subjects.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: test_subjects.csv,PASS,18a7bb6766a42c993e7b8d4d6e4ff7c8126cc8493ba9be26f28040acf094a6d4,18a7bb6766a42c993e7b8d4d6e4ff7c8126cc8493ba9be26f28040acf094a6d4,HARD FAIL
+required frozen artifact exists: best_model.pt,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: best_model.pt,PASS,3644f0215c72f079c1d2b66bad4f9ee6ca45fad0334b204cc1dc6b3649132c9c,3644f0215c72f079c1d2b66bad4f9ee6ca45fad0334b204cc1dc6b3649132c9c,HARD FAIL
+required frozen artifact exists: best_model.pt,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: best_model.pt,PASS,3c6d402ddbd2d1055cb68458bc6f5a7c880ac683a4527ff5171cc6f2408c754b,3c6d402ddbd2d1055cb68458bc6f5a7c880ac683a4527ff5171cc6f2408c754b,HARD FAIL
+required frozen artifact exists: classification_threshold.json,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: classification_threshold.json,PASS,daf9e8f2b8cadaa2590ff3ad97b52390cf219c99b35a3758ecb2e934730b44f9,daf9e8f2b8cadaa2590ff3ad97b52390cf219c99b35a3758ecb2e934730b44f9,HARD FAIL
+required frozen artifact exists: classification_threshold.json,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: classification_threshold.json,PASS,369ae63c078a1aac105e5481c66740f80bf1b6cffde3bfb0253fd70d7dd07d41,369ae63c078a1aac105e5481c66740f80bf1b6cffde3bfb0253fd70d7dd07d41,HARD FAIL
+required frozen artifact exists: frozen_routing_rules.json,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: frozen_routing_rules.json,PASS,d042f0032068e0528a64122cc5fde967fe3d7240db95be7606ac3b7390c0ced3,d042f0032068e0528a64122cc5fde967fe3d7240db95be7606ac3b7390c0ced3,HARD FAIL
+required frozen artifact exists: train_eye_embeddings.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: train_eye_embeddings.csv,PASS,4c51fdfd5e4bcc5583974c43d9e0563105ebb04e18f019c65236a236d06b77d8,4c51fdfd5e4bcc5583974c43d9e0563105ebb04e18f019c65236a236d06b77d8,HARD FAIL
+required frozen artifact exists: reference_eye_distances.csv,PASS,True,True,HARD FAIL
+frozen SHA-256 unchanged: reference_eye_distances.csv,PASS,6a7146a54ccd41ae5703dd5a6dd9844ac02825c073b3f5b5ca6c83748b688b51,6a7146a54ccd41ae5703dd5a6dd9844ac02825c073b3f5b5ca6c83748b688b51,HARD FAIL
+test split required schema,PASS,[],[],HARD FAIL
+test manifest required schema,PASS,[],[],HARD FAIL
+test EyeExamID unique,PASS,0,0,HARD FAIL
+test eye count,PASS,120,120,HARD FAIL
+test subject count,PASS,95,95,HARD FAIL
+test Normal count,PASS,32,32,HARD FAIL
+test Abnormal count,PASS,88,88,HARD FAIL
+test labels restricted,PASS,"['Abnormal', 'Normal']","['Abnormal', 'Normal']",HARD FAIL
+test split marker,PASS,['test'],['test'],HARD FAIL
+test/train subject intersection empty,PASS,0,0,HARD FAIL
+test/validation subject intersection empty,PASS,0,0,HARD FAIL
+subject files agree with eye files,PASS,all three compared,exact equality,HARD FAIL
+test eyes absent from training data,PASS,0,0,HARD FAIL
+test eyes absent from reference data,PASS,0,0,HARD FAIL
+test image row count,PASS,720,720,HARD FAIL
+manifest eye set equals locked test split,PASS,0,0,HARD FAIL
+manifest only test split,PASS,['test'],['test'],HARD FAIL
+manifest only OD/OS,PASS,"['OD', 'OS']","['OD', 'OS']",HARD FAIL
+all manifest rows selected model inputs,PASS,0,0,HARD FAIL
+manifest image key unique,PASS,0,0,HARD FAIL
+no duplicate SHA within eye,PASS,0,0,HARD FAIL
+every test eye has six locked views,PASS,{6: 120},{6: 120},HARD FAIL
+manifest ResearchSubjectID consistent within eye,PASS,0,0,HARD FAIL
+manifest EncounterID consistent within eye,PASS,0,0,HARD FAIL
+manifest Laterality consistent within eye,PASS,0,0,HARD FAIL
+manifest EyeLabel consistent within eye,PASS,0,0,HARD FAIL
+manifest identity and labels match test split,PASS,compared,exact equality,HARD FAIL
+all original image SHA-256 values match,PASS,0,0,HARD FAIL
+no cropped or masked input used,PASS,0,0,HARD FAIL
+routing artifact is frozen,PASS,FROZEN,FROZEN,HARD FAIL
+routing positive class,PASS,Abnormal,Abnormal,HARD FAIL
+routing contains exactly two operating points,PASS,2,2,HARD FAIL
+expected frozen routing rule IDs,PASS,"['balanced_agreement_view_sd', 'conservative_zero_error']","['balanced_agreement_view_sd', 'conservative_zero_error']",HARD FAIL
+feature typicality omitted from both frozen rules,PASS,"[None, None]","[None, None]",HARD FAIL
+routing rules selected on validation only,PASS,locked validation data only,locked validation data only,HARD FAIL
+Day-3 checkpoint architecture,PASS,resnet18,resnet18,HARD FAIL
+Day-3 class mapping,PASS,"{'Normal': 0, 'Abnormal': 1}","{'Normal': 0, 'Abnormal': 1}",HARD FAIL
+Day-3 image probabilities finite and bounded,PASS,"min=0.002365176333114505, max=0.999958872795105","finite [0,1]",HARD FAIL
+Day-4 checkpoint architecture,PASS,resnet18,resnet18,HARD FAIL
+Day-4 pooling,PASS,feature-wise max,feature-wise max,HARD FAIL
+Day-4 feature dimension,PASS,512,512,HARD FAIL
+Day-4 class mapping,PASS,"{'Normal': 0, 'Abnormal': 1}","{'Normal': 0, 'Abnormal': 1}",HARD FAIL
+Day-4 eye probabilities finite and bounded,PASS,"min=0.0027458707336336374, max=0.9787492156028748","finite [0,1]",HARD FAIL
+Day-5 signed-margin prediction semantics reproduced,PASS,all eyes agree,all eyes agree,HARD FAIL
+eye output count and uniqueness,PASS,"rows=120, duplicates=0","120 rows, 0 duplicates",HARD FAIL
+conservative_zero_error uses no feature cutoff,PASS,,,HARD FAIL
+balanced_agreement_view_sd uses no feature cutoff,PASS,,,HARD FAIL
+all frozen inputs unchanged during evaluation,PASS,before/after compared,identical,HARD FAIL
+serialized eye predictions reproduce Day-4 confusion counts,PASS,replayed,exact,HARD FAIL
+no threshold search or fitting occurred,PASS,True,True,HARD FAIL
+original unmasked source preprocessing used,PASS,True,True,HARD FAIL
+bootstrap samples ResearchSubjectID clusters,PASS,True,True,HARD FAIL
+frozen rules applied without feature typicality,PASS,False,False,HARD FAIL

@@ -1,0 +1,19 @@
+Check,Status,Details
+canonical_source_file_exists,PASS,F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\data\interim\bscan_eye_level_master.csv
+canonical_source_required_columns,PASS,missing=[]
+canonical_boolean_fields_valid,PASS,invalid IncludePrimary=[]; AuditHold=[]; PostoperativeReviewFlag=[]
+source_eye_exam_id_unique,PASS,rows=2552; unique=2552
+no_include_primary_source_rows_are_held,PASS,held_rows=0
+expected_source_eligible_total,PASS,expected=1510; observed=1510
+expected_source_normal_count,PASS,expected=402; observed=402
+expected_source_abnormal_count,PASS,expected=1108; observed=1108
+source_pool_only_normal_abnormal,PASS,"labels=['Abnormal', 'Normal']"
+expected_pilot_total,PASS,expected=800; observed=800
+every_pilot_eye_exists_in_canonical_master,PASS,missing_ids=0
+every_pilot_row_was_include_primary,PASS,invalid_rows=0
+pilot_eye_exam_id_unique,PASS,duplicate_rows=0
+no_pilot_rows_are_held,PASS,held_rows=0
+pilot_only_normal_abnormal_labels,PASS,"labels=['Abnormal', 'Normal']"
+repeated_seed_42_selection_is_identical,PASS,selected_eye_ids=800
+pilot_matches_proportional_largest_remainder_allocation,PASS,"allocation={'Abnormal': 587, 'Normal': 213}; observed={'Abnormal': 587, 'Normal': 213}"
+locked_cohort_matches_new_selection,PASS,pilot_exists=True; lock_status=REPRODUCIBLE_EXISTING

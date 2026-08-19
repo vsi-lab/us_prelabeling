@@ -3,7 +3,8 @@ data/interim/
 data/processed/
 data/splits/
 
-outputs/
+outputs/models
+outputs/figures
 .venv/
 __pycache__/
 .ipynb_checkpoints/

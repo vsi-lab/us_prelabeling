@@ -1,0 +1,789 @@
+ResearchSubjectID,EncounterID,ReviewStatus,EncounterClassification,EyeStatus,EyeFindings,EyeImageQuality,SurgicalContextTags,ReviewerNotes,Laterality,ManifestImageCount,EyeLabel,AuditHold,AuditHoldReason,IncludePrimary,PostoperativeFlagSources,ReviewFlagOnly,PostoperativeAutoExclude
+EYE-25TXMD26ZGYD,ENC-N3RQTLYE5NW7,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-2I7YWS37M5BB,ENC-HEFL44SH6ZQU,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2I7YWS37M5BB,ENC-MLUM6BAHXP5Y,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,OD: Endophthalmitis,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2I7YWS37M5BB,ENC-HNPZMJIPHFCV,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,OD: endophthalmitis,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2I7YWS37M5BB,ENC-4N3PWHJPA5LN,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned,OD: endophthalmitis,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2IOMJFX7NOU7,ENC-AKADRVVCCEG5,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2N7GVDNPPBCL,ENC-BP2EDVJPJEII,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2U2IXBJWYYAP,ENC-UDCJVYI6RA2Q,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,OD: PVD suspected,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2YKT7KHCKYZB,ENC-4PWHC23U5WA5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2YKT7KHCKYZB,ENC-EG6ZWV6ZB7HE,Reviewed,Abnormal,Imaged,Other | Other: post PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,9,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-3KL3QSIV73UX,ENC-M5QYBW5UYYBG,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-3XLHDR25K273,ENC-HZNKVCFR6MQH,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-3YG3IKB3TTHC,ENC-KFVIJJHWLSH4,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46S3STDZK3RD,ENC-SYDXH2D6RBQY,Reviewed,Abnormal,Imaged,VH | Other | Other: VH with Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46SXC3QK7TFT,ENC-Q4XIBMURLO6F,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4HN5S3SZKMGB,ENC-BHTIJQROBOES,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-4MTTNVMBZW7I,ENC-BA7NJHRMVDBR,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4MTTNVMBZW7I,ENC-633CDECFCUXN,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4QOO7SM5RPKF,ENC-H2HO5HOBNTWN,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RBQ4SRTDL2F,ENC-PUJC6NYIK3WS,Reviewed,Abnormal,Imaged,RD | VO,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,VH vs VO indeterminate,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RL24ODZS3GA,ENC-R2IYC4Y6S3Y6,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-53GGJL57YKOQ,ENC-R3SL7JOXZKFO,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,endopthalmitis,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-53GGJL57YKOQ,ENC-25SI7DVB2YYX,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Acceptable,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-54S2X4YYR77D,ENC-2VJ7E4MZZB23,Reviewed,Abnormal,Imaged,Other,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned,OD: oil filled eye,OD,1,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5FNKAR5IFRG2,ENC-RTKDVXZQJON5,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5RVTJXJ5CGNG,ENC-KZLPNM6VD3SQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5RVTJXJ5CGNG,ENC-RV5MGDJIHEJ5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5SVMBL4BZLHG,ENC-336CNT3BWF3O,Reviewed,Normal,Imaged,Normal,Poor,PPV / vitrectomy mentioned,,OD,8,Normal,False,,True,SurgicalContextTags,True,False
+EYE-5SVMBL4BZLHG,ENC-F5XKSAAPPGCT,Reviewed,Normal,Imaged,Normal,Acceptable,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-5SWNORY2WH2L,ENC-TQ255UZZXB7U,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-5T4DI373RPRC,ENC-KYQ7GAFTUHST,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-WTPUDM6IFKSS,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-FHRGBRK5GDTP,Reviewed,Abnormal,Imaged,CD | VO | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,10,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-FCF6SJ2552VG,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,10,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-7W6P73DLPFJP,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-THONB6GNUTSE,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,13,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-FXHGQ4KLTQRF,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-XRBX3TLJUFTX,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-F5UULWI3LRR4,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-UPM3MUEWAGLE,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-XM5VHNUL6CZZ,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-BXDM56TA4R5L,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,11,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-BYLPPZGABZFP,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-TETZC67BUJAO,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,14,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-I2NLG4LWPVXH,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-2JABSF2YBZ36,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-7XQLJC4S6D4P,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-DJRAKJDD7SMV,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-T4GCULFDL46K,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,14,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-ULUT6BMWLYDF,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-6SD6H3KQEB64,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-SSL62LNM47L5,Reviewed,Abnormal,Imaged,VH | CD | RD,Good,PPV / vitrectomy mentioned,"OD: VH, CD, RD",OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-XZT67QY7KPCH,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-2GAS2NIU5UQO,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-K2WS6F5BZW3O,Reviewed,Abnormal,Imaged,VH | CD | RD,Good,PPV / vitrectomy mentioned,"OD: VH, CD, RD",OD,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-MQTCEYN4N6RW,Reviewed,Abnormal,Imaged,RD | CD | VH,Good,PPV / vitrectomy mentioned,,OD,18,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-ALDLW66GAUAP,Reviewed,Abnormal,Imaged,RD | CD | VH,Good,PPV / vitrectomy mentioned,,OD,11,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-ASWAOJVMH5ZU,Reviewed,Abnormal,Imaged,VH | RD | CD,Good,PPV / vitrectomy mentioned,"OD: VH, RD, CD",OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZZ6OVYF5VEA,ENC-QFZYTSGPPUUJ,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-5ZZ6OVYF5VEA,ENC-WL2X6W7Z32PT,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-6LWTX53XK4Z3,ENC-XP7275QLXJBV,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6LWTX53XK4Z3,ENC-YXYT3ELSJQL5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6O334KZS54XO,ENC-FCNRR2OEF32R,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6O334KZS54XO,ENC-47DWOCGTGGTY,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6O334KZS54XO,ENC-IF4DXSBFIWHV,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6YQ4KLQTO6NO,ENC-4L463DDTVSWS,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,5,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6YQ4KLQTO6NO,ENC-ULUIAC6FUDUZ,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-6YQ4KLQTO6NO,ENC-DCLYTBFIQW5Z,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-76T22EF6ASXL,ENC-ISPJHXHZ4AVI,Reviewed,Abnormal,Imaged,CD | RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,"OD: CD, RD",OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-76T22EF6ASXL,ENC-XKSAU3CUDOJZ,Reviewed,Abnormal,Imaged,CD | VH,Good,PPV / vitrectomy mentioned | Oil removal mentioned,VH vs VO indeterminate,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-76T22EF6ASXL,ENC-ZP33GERLP6PW,Reviewed,Abnormal,Imaged,CD | VH,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7CCGQ4PIRBBD,ENC-TGHPHWXWQQCK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,VH vs VO indeterminate,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7CCGQ4PIRBBD,ENC-FW6CIYONVENI,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,VH vs VO indeterminate,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7EM3WFLJXUQZ,ENC-EYLVFA7H4PRU,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7G74KE5QUYIZ,ENC-Z3K4E66Q3ZQE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7GPJ47NSJEZF,ENC-ROJJGKFJIIMK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7GPJ47NSJEZF,ENC-GDHYGXNKR6VZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7JZQL3D4EM6F,ENC-QC7KR3QLO4L4,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7JZQL3D4EM6F,ENC-R6BY2IELXCMS,Reviewed,Abnormal,Imaged,VH | Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-7MFBGKILRQYV,ENC-IPJE4F2XAH7R,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7OBBUZHNBOOA,ENC-SXCMRG2VUDYO,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7OBBUZHNBOOA,ENC-55VYYTBFEION,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RKPLMJLMMJ2,ENC-2GWRTOWHTFKQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RKPLMJLMMJ2,ENC-OTEWGEYAOK4R,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RKPLMJLMMJ2,ENC-BD7HNEVWYHNH,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RKPLMJLMMJ2,ENC-72ZDDCFH3PRN,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-7RKPLMJLMMJ2,ENC-GMWPW6DHFGH4,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-7UKXYNLPIHCY,ENC-ED6BGJL2LG5D,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,endopthalmitis,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7UKXYNLPIHCY,ENC-DIEY4HARUROO,Reviewed,Abnormal,Imaged,VO,Acceptable,PPV / vitrectomy mentioned,,OD,2,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-A3NXFLYSCHSC,ENC-OXDUJERXZSTA,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-A3NXFLYSCHSC,ENC-I62WOO3VS747,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-A3NXFLYSCHSC,ENC-KQ7HY6ZLTFSF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-AGMKTTTOCHGE,ENC-V5J3DYLXIYIG,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-AGMKTTTOCHGE,ENC-BCLHGPBETU7R,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-AIYBT2AAS6HB,ENC-AWFT7CLXEXKB,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-ANOCQ6HLDDQV,ENC-PPMET6TC4GBB,Reviewed,Abnormal,Imaged,RD | CD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-ANOCQ6HLDDQV,ENC-FSQU4LW4XK47,Reviewed,Abnormal,Imaged,RD | CD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-AV7WZUCQF7CO,ENC-A32HWCYBDV5W,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,OD: endopthalmitis OS: artifact,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-AXCX5K555WRT,ENC-ZGLPMKDVQY2U,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-AY6M3DBYQH3G,ENC-5FZW6UT4OM6B,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,"post-PPV, VH",OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-AY7S6HABC7YO,ENC-Y2BYR5PQ2GUS,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-AY7S6HABC7YO,ENC-6VSDJOWMMPCK,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-B4IBHDYZQIJG,ENC-GLPVOPCMSDXK,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-B5PS4XW6FQCN,ENC-7IO64MZ2LSHE,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-B64OQHLVC6R3,ENC-354PLWZSECVC,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,RD: BSC-DDHTDPWK7VP2,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BD2Q6K32MPFT,ENC-XSCDJ4CBFNDL,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BFQKJHID3FLC,ENC-VR7CGRKMDKBG,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BFQKJHID3FLC,ENC-A6ORVSJ5VUT6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BFQKJHID3FLC,ENC-SHZTJVZECT6M,Reviewed,Abnormal,Imaged,VH,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BKDBV7MD2HLZ,ENC-ZARQWQIZKKSK,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-BSPMEZ6QZKSO,ENC-23XQ3KWKDQ4O,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BWSME7LCIW6R,ENC-2W6I3CKHKNNI,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-BXDWPKCTJYL4,ENC-6SAD4ZJUJKLP,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BXDWPKCTJYL4,ENC-PP6SRBVMPPQQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-C4SUQWVETVJH,ENC-E6STHA6EO2WL,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-7ZMOYRWHDE62,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-C5WYDQ2SZPFF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-KB256D43BEB3,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-FK2JSTOV7EFW,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-WRE5C7WZ7YW7,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-JEQD3WBLKGVD,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-NI26PQQHWMDM,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-7B3GHVCA6HH2,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-D3UD5JDYVR44,ENC-G7KT542QBF7V,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-D3UD5JDYVR44,ENC-LZA2E7WJ7J4V,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DA2CBPIPZQMV,ENC-UBXF5JRK24AG,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DA2CBPIPZQMV,ENC-2XSLDTWFJHKP,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DA2CBPIPZQMV,ENC-3W7RFXZABSFW,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DB5L234VV4NL,ENC-IVX5ZIRWMSZO,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DNB6DQ3IS6WA,ENC-CVIAS7P6RBN3,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned | Gas tamponade mentioned,OD: total RD,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DQVXV7VVVQIE,ENC-FGT6ZWVXICAS,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-DR2LDWMRVKPK,ENC-CBCVFG2OZWGD,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DUME5RUALDU3,ENC-GV7WLFNLWGO5,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DUME5RUALDU3,ENC-QYO6QKOGRLFX,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DUME5RUALDU3,ENC-GBIPSFX6AJIH,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-E2DGSEQZMCXK,ENC-MMPKA2UEHD4T,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-E2DGSEQZMCXK,ENC-3EXCU2F5UPMD,Reviewed,Abnormal,Imaged,RD | CD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-EDR2IYY5AP3J,ENC-5QJCP5LEYJY4,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-EHZGYHV34ZN3,ENC-SXZJ4TAYFAMF,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-EJB7MGJ4SFOW,ENC-IR4CZMOF6QBX,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Acceptable,PPV / vitrectomy mentioned | Silicone oil mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-EJB7MGJ4SFOW,ENC-FFD4MMB5QPZD,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Acceptable,PPV / vitrectomy mentioned | Silicone oil mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-EJB7MGJ4SFOW,ENC-LPCV4D43KGGQ,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Acceptable,PPV / vitrectomy mentioned | Silicone oil mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-EYTRQNBJZ4A5,ENC-JWKBFDDQFEYB,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,endophthalmitis,OD,10,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-F5BDW6JQSBPO,ENC-RZBMWWIQ7FKY,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,3,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FARIKKGLXPC3,ENC-M3TWHB47Q6QC,Reviewed,Abnormal,Imaged,VH,Acceptable,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FDEWS7QSOVOF,ENC-KYVXKI5ZWFN3,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned,OD: suprachoroidal hemorrhage,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FDEWS7QSOVOF,ENC-WUPNTSMHLUXR,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FDEWS7QSOVOF,ENC-3HMZZBIITV75,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-FLZRLY6PO6OY,ENC-BUWNMWGGYTLW,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FM7XSVHPCLEV,ENC-R2IXRM2XBJGT,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FSQXPDNFWMVG,ENC-46R3VG5KDGGE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,OS: endophthalmitis,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FVH3AXB6ACZS,ENC-L7GYZWXUSPIF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FXJEDCBYVXYU,ENC-HIXGFMNNDEFQ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FXJEDCBYVXYU,ENC-SLK3CNH6Q6BH,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-G62R5SGQS7FT,ENC-ALSAW4Z3BBSG,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GCTAGWCDPA2Z,ENC-DY54TIST4JN6,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GCYFN6BC4GEN,ENC-BQONDNKHFT7K,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,"OD: Emulsified oil droplet suspected, OS 1장은 방향 잘못 입력한것으로 OD 가 맞음",OD,6,Abnormal,True,Laterality conflict,False,SurgicalContextTags | ReviewerNotes,True,False
+EYE-GCYFN6BC4GEN,ENC-6G4ITXJRIJIJ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GCYFN6BC4GEN,ENC-DDHFSLRSZXYI,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-4ABLOC6RTEEM,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-EOV7ELW37R2H,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-JIUIEY4KEX3Z,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-ZYPNYJFDDR3P,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-J3LNEXMPPEJ4,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-D7DU6WFLHKX6,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-WVXQAH4PDHNC,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-CHBJBJCT4EJ4,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-QAA4FC2CPXAO,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-URP7T2HMD5FC,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-BW75H3XCI4YM,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-IM2JYR5TSSHV,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-K2ZF3YCOLPFW,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,OS: Endophthalmitis,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-JDEODPCPPSIO,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-LEUGNZT6ZXXI,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-BWRHJL4ZZJSH,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-GI5SCP7KGBB5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-ECHO7SDZJWNZ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-MNFZ6J75DUS3,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-2V2KIYDDGLGG,Reviewed,Abnormal,Imaged,VO | Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-CVPZKGBW3ES6,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-G7ZDKG6J6MQM,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-PKU27IGQP2T4,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GTT6GJ56L46I,ENC-BSKH4M5BT6PI,Reviewed,Abnormal,Imaged,VH | Other,Good,PPV / vitrectomy mentioned,"OD: VH, suprachoroidal hemorrhage",OD,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GTT6GJ56L46I,ENC-FT4QS34W3NWW,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GTT6GJ56L46I,ENC-3U4ERGMAMUAU,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GTT6GJ56L46I,ENC-QYP4FGL2MSFP,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GTT6GJ56L46I,ENC-UDL5KHY57OEE,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-SAMCW4SGC7GJ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-YJW6CFJT7PUN,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-WXMJBZWLOXEU,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-DPY5ADJSZNCH,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-UTKPFODJ22QA,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-5FAKBB7ZEJHC,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-6JBPZYTQCZDX,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-RH5HR5W6B42T,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-FXN5X27PC4UZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-QBEEJQB4UWE7,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-RHZJWYJ7UBHZ,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-AEXWZYTA2BB3,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GYKL24AE3KMD,ENC-R45HIWT75UXT,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-H2RL7Q27BHJF,ENC-VTEY7FSJC4KH,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-ZJVI6ZWR72DW,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-IQ4J32OZNX75,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-IOVUV3MYWYTI,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-THGOUM2HXLQY,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-TF3WEJI73NYP,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-5UXW6XHXNA2I,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-54S67KLMUPT3,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-BUXFU7COK6S2,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-JR2XWZS47JDM,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HUIYGSRCKY4B,ENC-AYQV5TAA2B7E,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-HWA2UFVNAUZT,ENC-62UAXTHRFEBT,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-HZXHIAKPKRGB,ENC-ERUQQVRD7UOC,Reviewed,Abnormal,Imaged,RD | VO,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-I4745QQEXI5V,ENC-GJSTVVX2BSRL,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-I55OUKQBBD5C,ENC-52FSHS5QDAXI,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-I55OUKQBBD5C,ENC-35VWWIVRIS3V,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-I55OUKQBBD5C,ENC-GHUZQDSDZJCJ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-I6N2FJPGSGQ7,ENC-DYYITVKW7TP7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IFYHINCGUWT2,ENC-XDF7R7TH5X74,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IGASP27JYDTE,ENC-JBDHI3OZ24YH,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-IHTS5PSP5S76,ENC-BIHAQ7IT7ZGU,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,OS RD with PVR,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IHTS5PSP5S76,ENC-TTUB4GDZEGYY,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IHTS5PSP5S76,ENC-EBOMWE7QGFVB,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IHTS5PSP5S76,ENC-WSPQD7QCL2MH,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IHTS5PSP5S76,ENC-MVZF54JXBF77,Reviewed,Abnormal,Imaged,RD | CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,9,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IKCINCPNZSRM,ENC-JCEURY7BCIWN,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IP7AEMQTX7W6,ENC-4O4WATSXDAQU,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Acceptable,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-IP7AEMQTX7W6,ENC-ZZIWOP6IESIY,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Acceptable,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-IZ4PZPY77RFI,ENC-SB2CJYH7OC4O,Reviewed,Abnormal,Imaged,Other | Other: preretinal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,2,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZANR5PJPMWV,ENC-I47KG3ISXLTB,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OD,1,Normal,False,,True,SurgicalContextTags,True,False
+EYE-IZDBCUHSCL3I,ENC-USWK5HTV5JRB,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JA3H2G5M6KJT,ENC-OHA7P4CVY2LR,Reviewed,Abnormal,Imaged,RD | VH,Good,Oil removal mentioned,"OD: RD, VH",OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JA3H2G5M6KJT,ENC-XZCH3TCZ4SCI,Reviewed,Abnormal,Imaged,RD,Good,Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JB3UWLHVZSJZ,ENC-7NV63TQPZ5MB,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JB3UWLHVZSJZ,ENC-S7LBGQOG5NH3,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JB3UWLHVZSJZ,ENC-R7S4UIJPXM4G,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JEIOIKO3W533,ENC-ALWCVXJLYCRP,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-JETWT2GWBCLB,ENC-Y7LO35SWECXR,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JM4W2PAV6CW6,ENC-4VBOIGNC7G6Y,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JNTSFDDGJCUX,ENC-SKZB64QAGLG7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-K4UNKA6DSZ6C,ENC-IOT4I6EHF5OU,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-K6XOFH3QXVMU,ENC-NUQHQEHOYF3H,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-KAW3ABNEEIWC,ENC-QVPGQCGXHE2I,Reviewed,Normal,Imaged,Normal,Acceptable,Silicone oil mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-KAW3ABNEEIWC,ENC-376EWFPCEI7B,Reviewed,Abnormal,Imaged,VO,Good,Silicone oil mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-KAW3ABNEEIWC,ENC-2LFOCZWJTU5E,Reviewed,Abnormal,Imaged,VO,Good,Silicone oil mentioned,emulsified silicone oil droplet,OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-KAW3ABNEEIWC,ENC-HWBJZGQ5X26I,Reviewed,Normal,Imaged,Normal,Good,Silicone oil mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-KAW3ABNEEIWC,ENC-2VSFWVPHSODM,Reviewed,Abnormal,Imaged,VO,Good,Silicone oil mentioned,emulsified silicone oil droplet,OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-KAW3ABNEEIWC,ENC-GKE7P36CADV5,Reviewed,Abnormal,Imaged,CD | Other | Other: emulsified silicone oil droplet,Good,Silicone oil mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-KRFIFRAWIQ46,ENC-R3O55JZU2GH2,Reviewed,Abnormal,Imaged,RD | Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-KRFIFRAWIQ46,ENC-DNRZSJ7E775C,Reviewed,Abnormal,Imaged,RD | Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-KRFIFRAWIQ46,ENC-QSV5G53VPHHQ,Reviewed,Abnormal,Imaged,RD | Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-L2VK3LFPK4KI,ENC-UAGNWNAZ2MRF,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-L2VK3LFPK4KI,ENC-SD2IH3QWO5RB,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,emulsified silicone oil droplet,OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-L2VK3LFPK4KI,ENC-TABOUNPQ5I7Y,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,emulsified silicone oil droplet,OD,7,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-L2VK3LFPK4KI,ENC-WRTHWHHZ6DBX,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,emulsified silicone oil droplet,OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-L2VK3LFPK4KI,ENC-T5VG3NL3SEMT,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,emulsified silicone oil droplet,OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-L4WSAOKCZNES,ENC-O3LYVSIKDDKA,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-L4WSAOKCZNES,ENC-SDHRQV2Z6BRZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-L5FODWMFGM7V,ENC-AQD2SZNE3VKJ,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-L6A646ORBBGA,ENC-DGPRIYYZKWYP,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-L6A646ORBBGA,ENC-4CCQ6WGDZZLC,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LCSY6UNSVGP2,ENC-SIYTUEX54AE6,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LEUW3ZU3YKWQ,ENC-3WDCPIYWNDUZ,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LHCSYGRPLBAC,ENC-PEIUWVAS6DA7,Reviewed,Abnormal,Imaged,CD | Other | Other: post-PPV with gas tamponade state,Good,,,OD,8,Abnormal,False,,True,EyeFindings,True,False
+EYE-LHCSYGRPLBAC,ENC-O7CVSYTTUWG7,Reviewed,Abnormal,Imaged,CD | Other | Other: post-PPV with gas tamponade state,Good,,,OD,7,Abnormal,False,,True,EyeFindings,True,False
+EYE-LHCSYGRPLBAC,ENC-HJUFRC7RAP2I,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,,,OD,6,Abnormal,False,,True,EyeFindings,True,False
+EYE-LIHWCEW7XK4I,ENC-K2U62P7FS52A,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LNCG4FEWHHWI,ENC-WZ63OVCDEQ3L,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LNCG4FEWHHWI,ENC-K27Q5NQMQHYE,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LQWER2A2WYSB,ENC-HZEG5UASRDQA,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LQWER2A2WYSB,ENC-RYNBNT7LNKU6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LTOQIDNZK5TL,ENC-GHPPBUI2MSXN,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LTOQIDNZK5TL,ENC-RAEU6AI3JEGE,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,,OD,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-M6R7LLJTPGMI,ENC-G7NLVD7L2DX3,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-M6R7LLJTPGMI,ENC-IAGCAD7CB54B,Reviewed,Abnormal,Imaged,"Other | Other: Suprachoroidal hemorrhage, emulsified silicone oil droplet",Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-METCQZZHKHAQ,ENC-5GVZK5NRLDQN,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OD,4,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MJ6HNWMXKEPE,ENC-RGD4YHHCBIAA,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-JQEU5WWNQYR5,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-4H5FIN35EE5K,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-EKQQ3C7RNWGD,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-SWROFXWIQHM4,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-P4JVMFN5RERK,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-L7G6PFLPIYMR,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-JLYXFICLLFWK,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-UDWKXHW2LRAV,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-VEXWH7PJWVTW,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MMPLQCWMHH2Y,ENC-ZITXZBY6E645,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-MRDKZ4HW67PZ,ENC-K2VKWSCJRIOA,Reviewed,Abnormal,Imaged,VH,Good,Gas tamponade mentioned,Laterality unknown file is A scan only images.,OD,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-MVZWGPXLUX3K,ENC-O6QJIEB6WZBK,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-NBWM5GSPL6QB,ENC-XMNFLGUNL6HD,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-NGBELQC7GFAW,ENC-QB5NNTENIACK,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NGBELQC7GFAW,ENC-TXJ5UNRHQYKZ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NGBELQC7GFAW,ENC-TODFURVQSHJB,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NGXYF5IJBKNK,ENC-65EXG45ISOKE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NK4NQJKRCZT5,ENC-TXJJOZGVUNRF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NL2CDTEFWJP5,ENC-TAXZQSPOTNXZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NL2CDTEFWJP5,ENC-MLLV3GPF6KC2,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NL2CDTEFWJP5,ENC-PSM6LEDG64PM,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NL2CDTEFWJP5,ENC-BEO2NEZY6PW7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NRKA5AXEF24Q,ENC-H62X6PZ6EKWE,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-ODVQUJDZVORZ,ENC-KVVJP52JENG3,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-OET3L2YEJKAK,ENC-QKZVO24MZAIP,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-OET3L2YEJKAK,ENC-4WAOITSBNCNR,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-OIVPWUH57CBI,ENC-ANBY4CVAGUX7,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-P4BDAO2UJQPW,ENC-4E2C7SEDH2IA,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PBIPKTDOI2IX,ENC-XSCZO2252KMD,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PIKPI7DBO263,ENC-K423S26KUMLL,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PIKPI7DBO263,ENC-CWDA7L4375BS,Reviewed,Abnormal,Imaged,VH | Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-PINC7SXDKTGO,ENC-KWQLGOMKV3P6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PINC7SXDKTGO,ENC-4KM3OOHYQPOV,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PJYAJFSGGPNA,ENC-GGCT5L4JF3OB,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PJYAJFSGGPNA,ENC-4IQXY7ZF55FC,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PJYAJFSGGPNA,ENC-PQFB6U27K3SV,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PJYAJFSGGPNA,ENC-7FKHYBAGYMCX,Reviewed,Abnormal,Imaged,VH | Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,8,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-PNAYRRIDGXCS,ENC-FRDMW22Y6PK7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PNAYRRIDGXCS,ENC-DUTTE75QQMGF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PNAYRRIDGXCS,ENC-TSYOPIENJLBG,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-POR7MUD5EDMO,ENC-ZW7J4UONQDUV,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-POR7MUD5EDMO,ENC-KW5LKMHJUVQ6,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-POR7MUD5EDMO,ENC-XOAJO7YE6C7K,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-POR7MUD5EDMO,ENC-5LUKWUGN33S2,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-POR7MUD5EDMO,ENC-XRIKFVZMVRPF,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PUEXNIN3HJBJ,ENC-WAAT3LTMCC33,Reviewed,Abnormal,Imaged,CD | VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PUEXNIN3HJBJ,ENC-HACZGKP4B5MK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PUEXNIN3HJBJ,ENC-S5GOXHAIJQC6,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PUEXNIN3HJBJ,ENC-NFCTVSLXYOVM,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PZQRODNKILRK,ENC-KGR3EO37LRYE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,endophthalmitis,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-Q6PY5LBITVYY,ENC-X6E2CBVAR3RN,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,,,OD,6,Abnormal,False,,True,EyeFindings,True,False
+EYE-QCFODQ2X6THE,ENC-FTGSF27E3OVK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-QESOOQ7ZQGXN,ENC-ERPPIQOWPICK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,True,Laterality conflict,False,SurgicalContextTags,True,False
+EYE-QESOOQ7ZQGXN,ENC-EICNMX4HWC6V,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-QMZ4LAYF6GAM,ENC-4JQ34P4PPZ57,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-QTJEKPDK5GF4,ENC-RPWFKAIEICZ2,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-QYP3S7SD47NM,ENC-32NIM4ZDRS2Z,Reviewed,Abnormal,Imaged,"VO | Other | Other: emulsified silicone oil droplet, post-PPV with gas tamponade state",Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-QYP3S7SD47NM,ENC-NGHA6ROMXO4I,Reviewed,Abnormal,Imaged,"VO | Other | Other: emulsified silicone oil droplet, post-PPV with gas tamponade state",Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-RFQTRX4QAZNK,ENC-YWNBWTTCJGXU,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-CGEHWEIERFPI,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-SSLB4YTBBAKE,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-QELODL5KPBQH,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-GHSABMKMJEZQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-4HXUHL7BGGV7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-WZ77VWLYICPL,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-3SUDXZKYAPW2,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-OUTKSF3KVYFK,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-RXEREATGD6PM,ENC-HQOBBF7BCO3R,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S2WZBEX2VMAW,ENC-4W3ZFYR264WG,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S4TSQXI7JCMG,ENC-JZ4CG6SM4ERD,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S4TSQXI7JCMG,ENC-HMP76XQBZWOD,Reviewed,Abnormal,Imaged,VH | Other | Other: subretinal hemorrhage suspected,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S4TSQXI7JCMG,ENC-FKA6UHSADZE4,Reviewed,Abnormal,Imaged,VH | Other | Other: subretinal hemorrhage suspected,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S5MASXBM5ZIP,ENC-RXUHIHLR7UQU,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S5MASXBM5ZIP,ENC-NZZY6UIFML5Y,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-S5MASXBM5ZIP,ENC-I6QXQOMC237K,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-S6FJSB6W6PIB,ENC-MSHR6ZOHITAS,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S6LXVBG4KY43,ENC-XN4QDATITKY5,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-SAZAFDMECKJU,ENC-IAREGVH4P6HE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SDPNS53WW42B,ENC-YMQPF77AWFAZ,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SE7PRLVIBL4H,ENC-UGT52UJEJL6X,Reviewed,Abnormal,Imaged,Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-W6HJABPOE5CR,Reviewed,Normal,Imaged,Normal,Acceptable,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-CHHFDTNIXLPM,Reviewed,Abnormal,Imaged,RD | Other | Other: emulsified silicone oil droplet,Acceptable,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-SF2W45Z7D2IX,ENC-IPHJUKBIG6RI,Reviewed,Normal,Imaged,Normal,Poor,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-5ZPQU2GT6W3U,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-SJDLSORRFILW,ENC-DFQZYXSG2RN3,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,,OD,9,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SJDLSORRFILW,ENC-CPRDNEDQYGNF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SJSTXFHYNAS3,ENC-CFSAXJGGDU5E,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SJSTXFHYNAS3,ENC-FBVC3LXFGKQA,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SNP744AM5Q6C,ENC-ZARQIN5JNFM4,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SWH4WKBYP2TL,ENC-QP57ESWGVTNX,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-T5U4AU7NK4YM,ENC-PZ455VGUDM3C,Reviewed,Abnormal,Imaged,VH | Other | Other: preretinal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-TBOAFQKLDTIA,ENC-CGH2STPVWSSZ,Reviewed,Abnormal,Imaged,RD | Other | Other: RD with PVR,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-TPR5BQRRBP74,ENC-T6D6ZBDI3CGZ,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-TRIEZMHXFVOI,ENC-DTLL2KQJYKQQ,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,OS: PVD state suspected,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-U3LL2DQ7PKOU,ENC-N7NEVBP3FDQ5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-U5MYROZWC4OZ,ENC-TLUVJGYXC4TD,Reviewed,Abnormal,Imaged,VH | Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-U6XZU6E3VVVD,ENC-KZ3RZ3RPWJWZ,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Poor,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UCRKXYI5OW2E,ENC-222BK6VHYR4J,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UCRKXYI5OW2E,ENC-E54I66WEKE7D,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UF7YH64MY2I6,ENC-ADGJ4W6GXMN7,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,OS: endophthalmitis,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-UFJ3M66RTYOU,ENC-CHWLR22FGD5N,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-UFJ3M66RTYOU,ENC-6OZEQWX243JH,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-UFJ3M66RTYOU,ENC-OFK3OZZYIONB,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-UFJ3M66RTYOU,ENC-26FR7LX5OEV2,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-UJIGNQB7A6CZ,ENC-KJN2VWGXWNEA,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-UO33ZMCRVASX,ENC-ZO4ZDLK5RQFR,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UO33ZMCRVASX,ENC-PAD56NTZSYLN,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UO33ZMCRVASX,ENC-6R77YKOIZ6JC,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UT4PHDVKNIZM,ENC-DJMRMUAEQM7F,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UT4PHDVKNIZM,ENC-IIXGIKKC4GKH,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UZCZ2SRCNFLC,ENC-ZWXGZDIJFFYP,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-V2FJRWBYWJEW,ENC-FQTUTGDJYTL4,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V2FJRWBYWJEW,ENC-CKKKT6DZV6TY,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V2FJRWBYWJEW,ENC-X7PVTBZXK3ZJ,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Poor,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V2FJRWBYWJEW,ENC-2KSDRMMO353M,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Poor,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V2N3OYTGOBEC,ENC-HJMSI56J2PSG,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V7WM5VMPFUT7,ENC-SUMHJSFQOC46,Reviewed,Abnormal,Imaged,VH | Other,Good,PPV / vitrectomy mentioned,"OD: VH, suprachoroidal hemorrhage",OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V7WM5VMPFUT7,ENC-NK52YX3YQDZJ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-VMWBMEO6YMJN,ENC-PHXTX7Z3H2XY,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-VWYSHIVLT6R2,ENC-HHPDBXSTING3,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-VWYSHIVLT6R2,ENC-GO52BL7FXZJ4,Reviewed,Normal,Imaged,Normal,Acceptable,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-VYVU4WE4MX46,ENC-GPMZBCGCBN4J,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-VZUHG7CFVWIA,ENC-NWARAKU2EKUL,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-W654GYZ6ZVZV,ENC-5WNSQWZFJSAX,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,1,Normal,False,,True,SurgicalContextTags,True,False
+EYE-W6WYB3NTQNLN,ENC-7TQ3QKZNPH2V,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-WNJPTHIMTX5O,ENC-Y3CRKQ4SDPXJ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,OU: endophthalmitis,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPI5L7VJQBV3,ENC-5W3N2YDMGA2F,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPI5L7VJQBV3,ENC-JITI5ISSTLZQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPVNHOJQF6EP,ENC-LRBIUQ7GKCSY,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,OD: emulsified oil state,OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-WPVNHOJQF6EP,ENC-ZBAMNAXM6A7R,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,OD: oil droplet suspected,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPVNHOJQF6EP,ENC-RKAM2YEJCVAY,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,OD: emulsified oil droplet,OD,7,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-WPVNHOJQF6EP,ENC-HDRGHPU7NGXX,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,OD: Emulsified oil droplet,OD,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-WUPCXFRZMHCV,ENC-DQFFDEB3QPCA,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WUPCXFRZMHCV,ENC-QJDSKV74M6QG,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OD,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WUPCXFRZMHCV,ENC-5AQTYBMMKZJH,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WUWWT6WPBCZW,ENC-ZA5P7OVO7BTP,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-XMQKOMQY4S37,ENC-SVWRF5DLLESL,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XMQKOMQY4S37,ENC-TDJ2KLREE6SN,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XQ4W6P5QYH52,ENC-6FOQ3A2NVVX7,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,endophthalmitis,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XQNONISR4ZIW,ENC-QZ2RUVM4CMH6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XWO6HLJBPDZH,ENC-CS57DX6PPHJS,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XWO6HLJBPDZH,ENC-KZCZBZKCQVUE,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XWY7NXZHVKXB,ENC-BI5TXAI7Z4XZ,Reviewed,Abnormal,Imaged,"Other | Other: subretinal hemorrhage suspected, post-PPV with gas tamponade state",Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-YDNF2S7YIISO,ENC-IU2CXJCBBLXC,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-YDNF2S7YIISO,ENC-UHDKIOBJJPQW,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-YDNF2S7YIISO,ENC-JJSW6LLYBLKK,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OD,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-YGJRQYIVQEAM,ENC-ZENMPAI6EOGR,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-YGJRQYIVQEAM,ENC-7YEN3Y25MODA,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-YGJRQYIVQEAM,ENC-IELWMN4YWQPJ,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OD,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-YPF2RSLFLHIN,ENC-33CWTOT6XBEK,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OD,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-2LZ3V2FCH5FL,ENC-D2IN4W3A6V25,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-2LZ3V2FCH5FL,ENC-C3TDDIZHDOLN,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,4번째 image 는 다른 대상자의 것으로 보임.,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-2N7GVDNPPBCL,ENC-BP2EDVJPJEII,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-34WSIFF4DTIM,ENC-AA2RHDEOKFU2,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-3KL3QSIV73UX,ENC-M5QYBW5UYYBG,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-3KL3QSIV73UX,ENC-IMQWQ62N7UJ5,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-3YG3IKB3TTHC,ENC-KFVIJJHWLSH4,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-3YG3IKB3TTHC,ENC-6LOLSWJAEYAS,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-3YG3IKB3TTHC,ENC-SI5VS2RJPICX,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46S3STDZK3RD,ENC-XVVDNUK7QVSF,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46S3STDZK3RD,ENC-MK7SIF2L372A,Reviewed,Abnormal,Imaged,VH | Other | Other: VH with Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46S3STDZK3RD,ENC-GJWXOR624YPT,Reviewed,Abnormal,Imaged,VH | Other | Other: VH with Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46S3STDZK3RD,ENC-CFH5VQMLI665,Reviewed,Abnormal,Imaged,VH | Other | Other: VH with Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46S3STDZK3RD,ENC-LV3QTV6ZJCVK,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-46S3STDZK3RD,ENC-4PA3Y4VQ6SFP,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-46S3STDZK3RD,ENC-HLM2PJLY6WMW,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-46S3STDZK3RD,ENC-RRLI3WGAWSVV,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-46S3STDZK3RD,ENC-FS6GDSN2N6HN,Reviewed,Normal,Imaged,Normal,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-46SXC3QK7TFT,ENC-D7QKZIQSLRIT,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-46SXC3QK7TFT,ENC-VRLOSHIIIU37,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-46SXC3QK7TFT,ENC-426IX32NG2CY,Reviewed,Abnormal,Imaged,RD | Other | Other: post-PPV with gas tamponade state,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-46SXC3QK7TFT,ENC-DFE7S43WIHCR,Reviewed,Abnormal,Imaged,RD,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4HN5S3SZKMGB,ENC-BHTIJQROBOES,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4HN5S3SZKMGB,ENC-RIVQKYQSOAB6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4MTTNVMBZW7I,ENC-BA7NJHRMVDBR,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-4MTTNVMBZW7I,ENC-7E4P3QRTVOPI,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RL24ODZS3GA,ENC-R2IYC4Y6S3Y6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,Laterality unknown file is A scan only images.,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RL24ODZS3GA,ENC-SU5E75FL2P6N,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RL24ODZS3GA,ENC-W5TKCEKSPBV5,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RL24ODZS3GA,ENC-PKTSU2W5ONTS,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RL24ODZS3GA,ENC-7BPTK7UFNHZT,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4RL24ODZS3GA,ENC-FMXBIOK5QD36,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4S3OWFWQNZN4,ENC-ZFVK3JYQG3BS,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-4XUEMG5SFTJI,ENC-ZJXWSTMRQRMB,Reviewed,Abnormal,Imaged,RD,Good,Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-54S2X4YYR77D,ENC-Q6FZJB6RHSUE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,endopthalmitis,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-57JLG5PMJPV4,ENC-2VGBFOVFNK63,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-57JLG5PMJPV4,ENC-TRVW67EUJ3LD,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-5FNKAR5IFRG2,ENC-7YXY4TAXYLAO,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5OW3FICCZZLZ,ENC-MH2DOQ4M27RH,Reviewed,Abnormal,Imaged,VH | Other | Other: eyeball rupture,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5QBMRURBE5MP,ENC-DJUFLAXVFO7Q,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5RVTJXJ5CGNG,ENC-KZLPNM6VD3SQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5SWNORY2WH2L,ENC-TQ255UZZXB7U,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5T4DI373RPRC,ENC-KYQ7GAFTUHST,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-5ZG4J75W6IGO,ENC-B6YQWXM6O7ZP,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,endopthalmitis,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-6EOX62GMBQFK,ENC-RTYGJ22YTOQX,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-6LWTX53XK4Z3,ENC-XP7275QLXJBV,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6LWTX53XK4Z3,ENC-YXYT3ELSJQL5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6S2EJD5TTRWJ,ENC-NJSSREKCLR66,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6S2EJD5TTRWJ,ENC-7HDGYJYMQRYE,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6S2EJD5TTRWJ,ENC-JOLYDYIDN6SV,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6S2EJD5TTRWJ,ENC-KU2GYOP2LIFN,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6S2EJD5TTRWJ,ENC-ED4YDILB2GRX,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6YH23IZKTHKL,ENC-ZSJEJATDK4C2,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,total RD,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6YQ4KLQTO6NO,ENC-6WJFB2UP6LXR,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6YQ4KLQTO6NO,ENC-A4SKWV3TP2MI,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-6YQ4KLQTO6NO,ENC-4L463DDTVSWS,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-76T22EF6ASXL,ENC-ISPJHXHZ4AVI,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,"OD: CD, RD",OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-7CCGQ4PIRBBD,ENC-L2TMHSQ3CKYV,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-7DMTNKKD7F4F,ENC-75Z3WVI7I64O,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7DMTNKKD7F4F,ENC-UHTAUKGLIOHZ,Reviewed,Abnormal,Imaged,RD | VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7DMTNKKD7F4F,ENC-P4NU36P55RK2,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7DMTNKKD7F4F,ENC-URWFAZAX2DAD,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7DMTNKKD7F4F,ENC-3XQKIOICKK3O,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7DMTNKKD7F4F,ENC-KEMAK7UPHHLJ,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7DMTNKKD7F4F,ENC-X6X2CMRG2Q4R,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7EM3WFLJXUQZ,ENC-EYLVFA7H4PRU,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-7GPJ47NSJEZF,ENC-ROJJGKFJIIMK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7GPJ47NSJEZF,ENC-GDHYGXNKR6VZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,4,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7GPJ47NSJEZF,ENC-7SQUZVIOQ6N4,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7JZQL3D4EM6F,ENC-NEGUFZCAWBM6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7JZQL3D4EM6F,ENC-W7LYAIPBDIZS,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7JZQL3D4EM6F,ENC-QWC5LXBNABDF,Reviewed,Abnormal,Imaged,CD | VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7JZQL3D4EM6F,ENC-7563F23EXYL7,Reviewed,Abnormal,Imaged,VH | Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,9,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-7JZQL3D4EM6F,ENC-IQD36OQJYGJT,Reviewed,Abnormal,Imaged,VH | Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-7JZQL3D4EM6F,ENC-PNQ3QJUMXGLH,Reviewed,Abnormal,Imaged,VH | Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-7MFBGKILRQYV,ENC-IPJE4F2XAH7R,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7MFBGKILRQYV,ENC-K44KFSZRW267,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7MX6HXPUNQT3,ENC-HJ7TLYE2S5OY,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,total RD with PVR,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RHKKBNTRLD6,ENC-ESVUKQ3XDVQK,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RHKKBNTRLD6,ENC-HNP5JRIXEQ4H,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RHKKBNTRLD6,ENC-GUPTBXZTSPYQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RHKKBNTRLD6,ENC-MZKXU4C3A7L7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RHKKBNTRLD6,ENC-WXJTIIDZACGL,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-7RKPLMJLMMJ2,ENC-E6DQOV5E5P2O,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-A26KSUBGXONZ,ENC-RWZQOLHQ6MUC,Reviewed,Abnormal,Imaged,RD | VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,True,Laterality conflict,False,SurgicalContextTags,True,False
+EYE-AGMKTTTOCHGE,ENC-V5J3DYLXIYIG,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-ANOCQ6HLDDQV,ENC-PPMET6TC4GBB,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-ASQPKW5XZEKE,ENC-3CLO2EPNDIJP,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-AV7WZUCQF7CO,ENC-A32HWCYBDV5W,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,OD: endopthalmitis OS: artifact,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-B4IBHDYZQIJG,ENC-GLPVOPCMSDXK,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-BETED746EFKX,ENC-MLQZUVRLH25P,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BFQKJHID3FLC,ENC-VR7CGRKMDKBG,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-BIV3CPV4YBTJ,ENC-7ZNA6NKIUOCD,Reviewed,Abnormal,Imaged,RD | Other | Other: post-PPV with gas tamponade state,Poor,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-BIV3CPV4YBTJ,ENC-UY5YOXHMASYJ,Reviewed,Abnormal,Imaged,RD | Other | Other: post-PPV with gas tamponade state,Acceptable,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-BIV3CPV4YBTJ,ENC-3U2C5AGTPA73,Reviewed,Abnormal,Imaged,RD | Other | Other: post-PPV with gas tamponade state,Acceptable,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,8,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-BIV3CPV4YBTJ,ENC-ZAIKPBF2GMUK,Reviewed,Abnormal,Imaged,RD | Other | Other: post-PPV with gas tamponade state,Acceptable,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,10,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-BKDBV7MD2HLZ,ENC-ZARQWQIZKKSK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BKDBV7MD2HLZ,ENC-7TUXAUQ2H3SJ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BRKBXDBBYZ44,ENC-KSIJONC3ZZIP,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-BSPMEZ6QZKSO,ENC-23XQ3KWKDQ4O,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BWSME7LCIW6R,ENC-SUCT6KSF5HLP,Reviewed,Abnormal,Imaged,Other | Other: Dislocated crystalline lens,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-BWSME7LCIW6R,ENC-SD2FKMSFRPA4,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-C4SUQWVETVJH,ENC-E6STHA6EO2WL,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-C4SUQWVETVJH,ENC-C6I5HEG3626U,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CGR7I7S76GR2,ENC-326UEVIS4HQZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-KYB2NJREFMUJ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,VH vs VO indeterminate,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CUVY4WKQ4FZX,ENC-65EQREZXWMJJ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-CX5MRJKAHLYS,ENC-VMBDNR4UQIDK,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-CX5MRJKAHLYS,ENC-RO5UKJRSQD35,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-CX5MRJKAHLYS,ENC-4F5X5VHCUCDD,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-D3UD5JDYVR44,ENC-G7KT542QBF7V,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-DB5L234VV4NL,ENC-IVX5ZIRWMSZO,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DKJWM5WPXSFG,ENC-6ULGCHCS3X6G,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Poor,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-DKJWM5WPXSFG,ENC-OHZFRS4BIOIK,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Acceptable,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,8,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-DKJWM5WPXSFG,ENC-24NQ4DDMTW2I,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-DKJWM5WPXSFG,ENC-C7IPPELJEJC4,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,5,Normal,False,,True,SurgicalContextTags,True,False
+EYE-DNB6DQ3IS6WA,ENC-CVIAS7P6RBN3,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned | Gas tamponade mentioned,OD: total RD,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DNSWDBRG4EH6,ENC-FCYFBYH4XCIF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DQVXV7VVVQIE,ENC-FGT6ZWVXICAS,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DQVXV7VVVQIE,ENC-MQXIIXFUTP2Q,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DQVXV7VVVQIE,ENC-E3SDKUSHYNMX,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-DQVXV7VVVQIE,ENC-4GBC5Z4YIEFU,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-DR2LDWMRVKPK,ENC-CBCVFG2OZWGD,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-DR2LDWMRVKPK,ENC-ULE22GTLT6YI,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-EHZGYHV34ZN3,ENC-SXZJ4TAYFAMF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-EHZGYHV34ZN3,ENC-647RA7WXLVNJ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-EYTRQNBJZ4A5,ENC-K3JQRAZFRCUV,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-F2IJJXPXZWQ7,ENC-ORY4DA7PYQDQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-F5GU6INM6TOX,ENC-T3ZF5MFPOOY6,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-F5GU6INM6TOX,ENC-PY7L6AAQIAL2,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FARIKKGLXPC3,ENC-FHYIK333M2QV,Reviewed,Abnormal,Imaged,CD | VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FARIKKGLXPC3,ENC-UVRDCMB7NOTG,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FARIKKGLXPC3,ENC-5QZ22M3THFII,Reviewed,Abnormal,Imaged,CD | VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FARIKKGLXPC3,ENC-C2G3LALMCMOR,Reviewed,Abnormal,Imaged,CD | VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FJV2ES35QINC,ENC-EMQC4PP2S5YD,Reviewed,Abnormal,Imaged,VO | Other | Other: posterior vitreous detachment,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,,OS,4,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FM7XSVHPCLEV,ENC-R2IXRM2XBJGT,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-FONO2VVURZZH,ENC-QHVKQNCVY3WY,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FONO2VVURZZH,ENC-TKR4A5G3UUJQ,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FONO2VVURZZH,ENC-5K4AP5OSKDU5,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FONO2VVURZZH,ENC-VX3HJCX4AFXQ,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FONO2VVURZZH,ENC-SN2WSQTV5BNK,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FONO2VVURZZH,ENC-EMWGP33WCJN2,Reviewed,Abnormal,Imaged,VH | Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FSQXPDNFWMVG,ENC-46R3VG5KDGGE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,OS: endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-FSQXPDNFWMVG,ENC-R3PR7WPOTQ5D,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,"endophthalmitis, after PPV",OS,6,Abnormal,False,,True,SurgicalContextTags | ReviewerNotes,True,False
+EYE-FXJEDCBYVXYU,ENC-YZRXHREHDR7Q,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,endophthalmitis,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-G6VQNIHQU7XH,ENC-EMZSVTJEQ5UJ,Reviewed,Abnormal,Imaged,VH | Other,Good,PPV / vitrectomy mentioned,"OS: VH, suprachoroidal hemorrhage",OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GA57QN3LPIT5,ENC-OU4OHTIRKBWZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-T5GIWBKB7N2P,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-RA4UMI4LOIFU,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-7NBZSQFEDWNH,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-LX6Z3LCTHAD2,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-LWITRKT25Z2T,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-J4J35TR5RNJ6,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-VO2K2JKO5RI7,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-GFHU3Z2HMS7A,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-WVMJRELPBXDY,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-K2ZF3YCOLPFW,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,OS: Endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-SIXYFGMTYTMB,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-6HORRHYO2GA5,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-FIATTYHYRVP5,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Laterality unknown : OD normal OS : Laterality unknown,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-2XZWVJCFBUB5,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Laterality unknown,OS,9,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-DMZVRKO44KNR,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-VD3HXY24CGWL,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-HG7JQYU3WRNA,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-MEXJ245FN3Z7,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-7FTCLILKIO67,Reviewed,Abnormal,Imaged,VO | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-EJXMDN5WZZII,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-JM5RRRIBLTSG,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-S2OJ6ND6IR7C,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-EUYAR6YHB5DM,Reviewed,Abnormal,Imaged,Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-AZ6RV5ZIRZ22,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-PV3JS4R2BGLX,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-XM7UJMA4MU4H,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-UUQHTCAFEESN,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-2ZAGQ224EV7L,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-YKL3JG4CGCQ5,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-PM46XVWV3STF,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-UU3CN7TU2DD6,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-WDCE55IEJOQO,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-RGVEAA5QI2OD,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-U4UFZ6SCO2KH,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-ZFJ7YDOTSTTZ,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-AIROBGZPTRBO,Reviewed,Abnormal,Imaged,CD | VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GRJ3AKSAW2XG,ENC-SUW43XCBVG5V,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GVA2MWKTEGBA,ENC-X3DKS5IDUA3A,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-GWZBMINWM4UI,ENC-SAMCW4SGC7GJ,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-H2RL7Q27BHJF,ENC-VTEY7FSJC4KH,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-H4QHIP64VL7V,ENC-HMIYGSTTNPHQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-HHIX7A57O73Z,ENC-RJCSUNS5MQ6Z,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-HMXL57HUTKYU,ENC-ICF22DSEURDX,Reviewed,Abnormal,Imaged,VO | Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-HMXL57HUTKYU,ENC-FX6N37DZYKEH,Reviewed,Abnormal,Imaged,VO | Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned | Gas tamponade mentioned,,OS,9,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-HWA2UFVNAUZT,ENC-62UAXTHRFEBT,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-I6N2FJPGSGQ7,ENC-STUCBU33AFSF,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IFYHINCGUWT2,ENC-LMD4DF2IZAXQ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IFYHINCGUWT2,ENC-XDF7R7TH5X74,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IFYHINCGUWT2,ENC-7VA4A2BL3R77,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IFYHINCGUWT2,ENC-DR6ZCLJ3BZOK,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IHTS5PSP5S76,ENC-BIHAQ7IT7ZGU,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,OS RD with PVR,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IKCINCPNZSRM,ENC-JCEURY7BCIWN,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZ4PZPY77RFI,ENC-XITE5Q6OPM3P,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZ4PZPY77RFI,ENC-FLUHZYN752VZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZ4PZPY77RFI,ENC-G7M3JODKYQ67,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZ4PZPY77RFI,ENC-275VSCMTBCBW,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-IZDBCUHSCL3I,ENC-USWK5HTV5JRB,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZDBCUHSCL3I,ENC-WXGAK4MU5AZR,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZDBCUHSCL3I,ENC-Z6I7PGPQO7TT,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZDBCUHSCL3I,ENC-WV74566NJL4X,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-IZDBCUHSCL3I,ENC-ZNLQSNB4HKXN,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JA3H2G5M6KJT,ENC-JFDDUJGNWTU6,Reviewed,Abnormal,Imaged,RD,Good,Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JB3UWLHVZSJZ,ENC-7NV63TQPZ5MB,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-JG5BMKTUUXTV,ENC-NSMRLEN3N7AB,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JLMB3GG4X435,ENC-DP3K2IZN2F5P,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-JNTSFDDGJCUX,ENC-FPBY234RM5SX,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-JXQW6FO5FWHZ,ENC-G4VS6NSOILI7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-K4UNKA6DSZ6C,ENC-IOT4I6EHF5OU,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-K563XP44CCJ6,ENC-JHH2TJ2AZL62,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-K563XP44CCJ6,ENC-HJNFKH6JRLRW,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-K563XP44CCJ6,ENC-TVNS77J2NHKO,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-KJ3DA26VJX7B,ENC-BIMACUQ3HIYI,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-KJ3DA26VJX7B,ENC-X55B4MP44HQ4,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-KRFIFRAWIQ46,ENC-KHUBI4GU7L2J,Reviewed,Abnormal,Imaged,Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-L5FODWMFGM7V,ENC-AQD2SZNE3VKJ,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,Laterality unknown file is A scan only images.,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-L6A646ORBBGA,ENC-DGPRIYYZKWYP,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,Laterality unknown file is A scan only images.,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LCSY6UNSVGP2,ENC-SIYTUEX54AE6,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LDSYZVWLMOBL,ENC-F45M3OV72MUD,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LEUW3ZU3YKWQ,ENC-3WDCPIYWNDUZ,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LIHWCEW7XK4I,ENC-XRRWUSANC257,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,8,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LMQQDH6ILPFJ,ENC-RYMCUGXF5WZZ,Reviewed,Abnormal,Imaged,VO | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LNCG4FEWHHWI,ENC-WZ63OVCDEQ3L,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LNCG4FEWHHWI,ENC-K27Q5NQMQHYE,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-LNCG4FEWHHWI,ENC-WJLN77DJQB7H,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LNCG4FEWHHWI,ENC-3D4GYMF4GPW5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LQWER2A2WYSB,ENC-HZEG5UASRDQA,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-LW3GNEZ3CXWV,ENC-V45ZKGWD4W3N,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,,,OS,6,Abnormal,False,,True,EyeFindings,True,False
+EYE-M6R7LLJTPGMI,ENC-G7NLVD7L2DX3,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-M6R7LLJTPGMI,ENC-P73EQWM4GQOS,Reviewed,Abnormal,Imaged,VO | Other,Good,PPV / vitrectomy mentioned | Oil removal mentioned,"OS: VO, focal suprachoroidal hemorrhage in H-S cut",OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-M6R7LLJTPGMI,ENC-3DQ3JHM2LP3F,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-M6R7LLJTPGMI,ENC-66DSILMP3OSU,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-M6R7LLJTPGMI,ENC-PBW37HYTHXCX,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-MJ6HNWMXKEPE,ENC-HXCYGW53MECZ,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-MJ6HNWMXKEPE,ENC-RGD4YHHCBIAA,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-MJ6HNWMXKEPE,ENC-7CJVHICQPE7R,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MJ6HNWMXKEPE,ENC-ZPXJSKMGSLFZ,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-SWROFXWIQHM4,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MKGN2ZX6FFQE,ENC-R3BW5FUELH4U,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MM6TCX4P6PUW,ENC-HIRIB6F2PJXR,Reviewed,Normal,Imaged,Normal,,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-MMPLQCWMHH2Y,ENC-TCNJQX52RXKX,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-N4M5ZY27S3NH,ENC-Z55XH2IWE2Z5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NK4NQJKRCZT5,ENC-TXJJOZGVUNRF,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-NL2CDTEFWJP5,ENC-PSM6LEDG64PM,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-NRKA5AXEF24Q,ENC-H62X6PZ6EKWE,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-O56TJISHLAL3,ENC-CFKVB6E7S3ND,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-O56TJISHLAL3,ENC-7LX5DGAS7FUL,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-ODVQUJDZVORZ,ENC-N3KCAHLDQVFC,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-ODVQUJDZVORZ,ENC-HG63Q6TZQWZI,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-ODVQUJDZVORZ,ENC-3CWPHKGCLCP5,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-ODVQUJDZVORZ,ENC-MESYBXVREBSW,Reviewed,Abnormal,Imaged,Other | Other: Suprachoroidal hemorrhage,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-ODVQUJDZVORZ,ENC-NATVXCGIXEQA,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-ODVQUJDZVORZ,ENC-BWSW3GB3CEYK,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-OG24KDR3LPJD,ENC-2TY6HFBV3WR6,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-OIVPWUH57CBI,ENC-ANBY4CVAGUX7,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-OKWHLACDCOHD,ENC-DBR3FUBCRYDR,Reviewed,Abnormal,Imaged,VH | Other,Good,PPV / vitrectomy mentioned,"OS Finding: VH, suprachoroidal hemorrhage",OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-OUWLFFQ2YK3F,ENC-GG5GFSTZWFQM,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-P4BDAO2UJQPW,ENC-ZC7AHLA4T4OO,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-P4BDAO2UJQPW,ENC-HLAB6MJR3T3Q,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-P4BDAO2UJQPW,ENC-COTZIDGDFJRG,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PBIPKTDOI2IX,ENC-XSCZO2252KMD,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PINC7SXDKTGO,ENC-KWQLGOMKV3P6,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PTBMWP3Q4QOO,ENC-M4MCVXKXEZCS,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PTBMWP3Q4QOO,ENC-FZFHB7BZNBAO,Reviewed,Abnormal,Imaged,CD | VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,9,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PTBMWP3Q4QOO,ENC-RKQHQVWA6L56,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PTBMWP3Q4QOO,ENC-UVC4HEXP4EIA,Reviewed,Abnormal,Imaged,CD | VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PTBMWP3Q4QOO,ENC-WZ35IOACNOL7,Reviewed,Abnormal,Imaged,CD | VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-PTBMWP3Q4QOO,ENC-D46K2GKF2MPE,Reviewed,Abnormal,Imaged,CD | VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-Q6PY5LBITVYY,ENC-MSYZIMMX2426,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,,,OS,6,Abnormal,False,,True,EyeFindings,True,False
+EYE-Q6PY5LBITVYY,ENC-766ZE6KWT23J,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,,,OS,6,Abnormal,False,,True,EyeFindings,True,False
+EYE-QCFODQ2X6THE,ENC-PMKP2J5ASOJ3,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,choroidal effusion,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-QMZ4LAYF6GAM,ENC-4JQ34P4PPZ57,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-QMZ4LAYF6GAM,ENC-CDTDSBIIHGCO,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-QTJEKPDK5GF4,ENC-WCSOQKIGD77N,Reviewed,Abnormal,Imaged,RD | VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,12,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-QTJEKPDK5GF4,ENC-2GETIF6OPXTS,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-QTJEKPDK5GF4,ENC-NJFG65GFYZQV,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-RFQTRX4QAZNK,ENC-OWXI4ZLUI7RU,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RFQTRX4QAZNK,ENC-BDBU7AZZ4X7K,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-RFQTRX4QAZNK,ENC-YET4MLKNDQ2U,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RFQTRX4QAZNK,ENC-4JBRSV2DYYKP,Reviewed,Abnormal,Imaged,CD,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RFQTRX4QAZNK,ENC-XRIM6XRKJPLF,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,5,Normal,False,,True,SurgicalContextTags,True,False
+EYE-RFQTRX4QAZNK,ENC-MEP6UJLE5C4G,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-RG5JJPDETRP6,ENC-CGEHWEIERFPI,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-RHS7B4UMBQPP,ENC-ZZGSEAABWFH6,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RHS7B4UMBQPP,ENC-C5ATIMR4YRU2,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RY77NRAXN4BG,ENC-WJ6YMJK727NS,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RY77NRAXN4BG,ENC-SNB5MSSGNIP3,Reviewed,Abnormal,Imaged,RD | VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-RY77NRAXN4BG,ENC-TZBFFUVHBBXU,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S2WZBEX2VMAW,ENC-GURIDXKWUFHX,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S2WZBEX2VMAW,ENC-FHVCGBBGNUN5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S2WZBEX2VMAW,ENC-7MUXEVSJEP27,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S326S5JQ54ZQ,ENC-NIOKLZYA4AHW,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S4TSQXI7JCMG,ENC-JZ4CG6SM4ERD,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-S5MASXBM5ZIP,ENC-RXUHIHLR7UQU,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-S6LXVBG4KY43,ENC-XN4QDATITKY5,Reviewed,Abnormal,Imaged,Other | Other: posterior vitreous detachment,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SAZAFDMECKJU,ENC-IAREGVH4P6HE,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-R6NVTJXR76I3,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-XD7VNUREBYKU,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-CN6S64PRQJDB,Reviewed,Normal,Imaged,Normal,Poor,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-IF6R4CQHEY3M,Reviewed,Normal,Imaged,Normal,Poor,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-FN56RQTUJ42T,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,9,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-TUPH7JHR3MNM,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-SF2W45Z7D2IX,ENC-RLR734VVQTMF,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-SF2W45Z7D2IX,ENC-JQHEXW7JZ3QZ,Reviewed,Abnormal,Imaged,RD | Other | Other: Suprachoroidal hemorrhage,Acceptable,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SF2W45Z7D2IX,ENC-X6OSH24E7YRR,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-SJSTXFHYNAS3,ENC-CFSAXJGGDU5E,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-TPR5BQRRBP74,ENC-T6D6ZBDI3CGZ,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-TRIEZMHXFVOI,ENC-DTLL2KQJYKQQ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,OS: PVD state suspected,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-TWSYFGDUUIGO,ENC-IYSFMBKWZU2T,Reviewed,Abnormal,Imaged,Other | Other: emulsified silicone oil droplet,Good,PPV / vitrectomy mentioned | Silicone oil mentioned | Oil removal mentioned | Gas tamponade mentioned,,OS,8,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-U3LL2DQ7PKOU,ENC-N7NEVBP3FDQ5,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,7,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-U3LL2DQ7PKOU,ENC-BJYZ4REFNQ4G,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-U3LL2DQ7PKOU,ENC-RAG6YKBBHXPW,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with gas tamponade state,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-U3LL2DQ7PKOU,ENC-L7QP2J2IT4YH,Reviewed,Abnormal,Imaged,Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-U3LL2DQ7PKOU,ENC-MJIRWLUPTHHP,Reviewed,Abnormal,Imaged,Other | Other: choroidal effusion,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-U6XZU6E3VVVD,ENC-KZ3RZ3RPWJWZ,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned | Oil removal mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-UCRKXYI5OW2E,ENC-222BK6VHYR4J,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UF7YH64MY2I6,ENC-ADGJ4W6GXMN7,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,OS: endophthalmitis,OS,4,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-UIA4QSV5ME22,ENC-5MIFO77G4QE2,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-UIA4QSV5ME22,ENC-YH3QY5CGFVBP,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-UIA4QSV5ME22,ENC-6LAZSQALEIUF,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-UIA4QSV5ME22,ENC-XN3MVPPTH7DZ,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-UIA4QSV5ME22,ENC-KPDX5KSWE5LC,Reviewed,Abnormal,Imaged,Other | Other: post-PPV with silicone oil tamponade state,Poor,PPV / vitrectomy mentioned | Silicone oil mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-UO33ZMCRVASX,ENC-ZO4ZDLK5RQFR,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-V2N3OYTGOBEC,ENC-VG364S3HLGRH,Reviewed,Abnormal,Imaged,Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V2N3OYTGOBEC,ENC-DVOFPXV6FBVV,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,Laterality unknown file is A scan only images.,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-V7WM5VMPFUT7,ENC-SUMHJSFQOC46,Reviewed,Abnormal,Imaged,Normal,Good,PPV / vitrectomy mentioned,"OD: VH, suprachoroidal hemorrhage",OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-VVT3PT3CKLAR,ENC-4VUYDVY7VR75,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-W654GYZ6ZVZV,ENC-POU6LUF44OX6,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-W654GYZ6ZVZV,ENC-5WNSQWZFJSAX,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,7,Normal,False,,True,SurgicalContextTags,True,False
+EYE-W654GYZ6ZVZV,ENC-DEHK4XW2BJDC,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-W6ROE4Q6BHGZ,ENC-GKXCEH2LCMAJ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-W6ROE4Q6BHGZ,ENC-6BZUDC3VRN2U,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-W6WYB3NTQNLN,ENC-OTY2D5RSHJHU,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-W6WYB3NTQNLN,ENC-HCHDOQNZWST5,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-W6WYB3NTQNLN,ENC-IQDW3NXITX3K,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-W6WYB3NTQNLN,ENC-CCM2O36Q4SFN,Reviewed,Abnormal,Imaged,VH | VO,Good,PPV / vitrectomy mentioned,OS: VH vs VO indeterminate,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WNJPTHIMTX5O,ENC-Y3CRKQ4SDPXJ,Reviewed,Abnormal,Imaged,VO,Good,PPV / vitrectomy mentioned | Silicone oil mentioned,OU: endophthalmitis,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPI5L7VJQBV3,ENC-P5IZ2ABDDD4I,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPI5L7VJQBV3,ENC-5DZZFK2FVS5M,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPI5L7VJQBV3,ENC-2IRJ36VRANK7,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPI5L7VJQBV3,ENC-CYEO3WXFOQR4,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-WPI5L7VJQBV3,ENC-6L4YIRTAEANU,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-WRQLHB7GJNWA,ENC-EBMM46VHDGB5,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-WUWWT6WPBCZW,ENC-ZA5P7OVO7BTP,Reviewed,Abnormal,Imaged,RD,Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XDOVGUZXI3LK,ENC-VRK5HYYJRGZ2,Reviewed,Abnormal,Imaged,VH | Other | Other: Thickened posterior hyaloid membrane,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XMQKOMQY4S37,ENC-SVWRF5DLLESL,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XMQKOMQY4S37,ENC-TDJ2KLREE6SN,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XMQKOMQY4S37,ENC-7DULSYE65YQV,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XWDO2P66Z4MH,ENC-EL2KOGEPUBVU,Reviewed,Abnormal,Imaged,"VO | Other | Other: Thickened posterior hyaloid membrane, subretinal hemorrhage suspected",Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XWDO2P66Z4MH,ENC-6TONOEBF7UAX,Reviewed,Abnormal,Imaged,"VO | Other | Other: Thickened posterior hyaloid membrane, subretinal hemorrhage suspected",Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False
+EYE-XWO6HLJBPDZH,ENC-TUGHZFSSJNYV,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-XWO6HLJBPDZH,ENC-V6NTYVPE6P56,Reviewed,Normal,Imaged,Normal,Good,PPV / vitrectomy mentioned,,OS,6,Normal,False,,True,SurgicalContextTags,True,False
+EYE-XWY7NXZHVKXB,ENC-XEQ3LUPQS3GV,Reviewed,Abnormal,Imaged,"Other | Other: post-PPV with gas tamponade state, subretinal hemorrhage suspected",Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-XWY7NXZHVKXB,ENC-3AAM4JBXRGVN,Reviewed,Abnormal,Imaged,"Other | Other: post-PPV with gas tamponade state, subretinal hemorrhage suspected",Good,PPV / vitrectomy mentioned | Gas tamponade mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags | EyeFindings,True,False
+EYE-YPBISB4U3KCY,ENC-JT4NL2J5T5HU,Reviewed,Abnormal,Imaged,VH,Good,PPV / vitrectomy mentioned,,OS,6,Abnormal,False,,True,SurgicalContextTags,True,False

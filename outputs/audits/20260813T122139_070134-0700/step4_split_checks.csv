@@ -1,0 +1,26 @@
+Check,Status,Details
+pilot_cohort_exists,PASS,F:\VSI - Volume F\Reliability Aware BScan Ultrasound\bscan_prelabeling\data\processed\pilot_cohort.csv
+pilot_required_columns,PASS,missing=[]
+pilot_total_is_800,PASS,expected=800; observed=800
+pilot_normal_is_213,PASS,expected=213; observed=213
+pilot_abnormal_is_587,PASS,expected=587; observed=587
+pilot_eye_exam_id_unique,PASS,duplicate_rows=0
+pilot_only_normal_abnormal_labels,PASS,"labels=['Abnormal', 'Normal']"
+pilot_subject_count_is_369,PASS,expected=369; observed=369
+repeated_seed_42_assignment_is_identical,PASS,assigned_subjects=369
+split_union_contains_800_eye_exam_ids,PASS,rows=800; unique_eye_ids=800
+no_eye_exam_id_in_multiple_splits,PASS,duplicate_rows=0
+no_pilot_eye_exam_id_omitted,PASS,omitted_ids=0
+no_nonpilot_eye_exam_id_added,PASS,added_ids=0
+train_intersection_validation,PASS,intersection_subjects=0
+train_intersection_test,PASS,intersection_subjects=0
+validation_intersection_test,PASS,intersection_subjects=0
+no_research_subject_id_in_multiple_splits,PASS,train_intersection_validation=0; train_intersection_test=0; validation_intersection_test=0
+train_contains_normal_and_abnormal,PASS,"labels=['Abnormal', 'Normal']"
+train_subject_file_matches_eye_file,PASS,eyes=560; subjects=179
+validation_contains_normal_and_abnormal,PASS,"labels=['Abnormal', 'Normal']"
+validation_subject_file_matches_eye_file,PASS,eyes=120; subjects=95
+test_contains_normal_and_abnormal,PASS,"labels=['Abnormal', 'Normal']"
+test_subject_file_matches_eye_file,PASS,eyes=120; subjects=95
+split_seed_is_42_everywhere,PASS,expected_seed=42
+locked_split_assignment_matches_recomputed_assignment,PASS,existing_files=0/6; lock_status=CREATED

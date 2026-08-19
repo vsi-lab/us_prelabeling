@@ -1,0 +1,177 @@
+{
+  "artifacts": {
+    "candidate_operating_points": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_candidate_operating_points.csv",
+    "error_count_coverage": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_error_count_coverage.csv",
+    "error_rate_coverage": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_error_rate_coverage.csv",
+    "feature_incremental_analysis": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_feature_incremental_analysis.csv",
+    "pareto_frontier": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_risk_coverage_pareto_frontier.csv",
+    "risk_coverage_curve": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\figures\\selective_routing\\20260814T151630_365581-0700\\risk_coverage_curve.png",
+    "risk_coverage_envelope": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_risk_coverage_envelope.csv",
+    "strategy_comparison": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_strategy_comparison.csv",
+    "validation_checks": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_selective_routing_checks.csv",
+    "validation_routing_predictions": {
+      "confidence_model_agreement": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\predictions\\selective_routing\\20260814T151630_365581-0700\\confidence_model_agreement_validation_routing_predictions.csv",
+      "confidence_only": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\predictions\\selective_routing\\20260814T151630_365581-0700\\confidence_only_validation_routing_predictions.csv",
+      "confidence_view_sd": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\predictions\\selective_routing\\20260814T151630_365581-0700\\confidence_view_sd_validation_routing_predictions.csv",
+      "full_reliability": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\predictions\\selective_routing\\20260814T151630_365581-0700\\full_reliability_validation_routing_predictions.csv"
+    }
+  },
+  "created_at": "2026-08-14T15:16:30.974016-07:00",
+  "data_scope": "locked validation reliability signals only",
+  "environment": {
+    "matplotlib_version": "3.10.9",
+    "numpy_version": "2.2.6",
+    "pandas_version": "2.3.3",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "python_executable": "C:\\Users\\vasu2\\miniconda3\\envs\\ml_gpu_pytorch\\python.exe",
+    "python_version": "3.10.20"
+  },
+  "feature_incremental_analysis": {
+    "ComparedAcceptedCounts": 113,
+    "CountsWithAcceptedErrorImprovement": 0,
+    "CountsWithFalseNegativeImprovement": 0,
+    "CountsWithFeatureGateActiveOnChosenEnvelope": 8,
+    "MeasurableIncrementalBenefitObserved": false,
+    "final_routing_requirement_inferred": false,
+    "interpretation": "No measurable incremental routing benefit on this validation set",
+    "matched_ablation": "PrimaryConfidenceMargin >= ConfidenceThreshold AND ModelAgreement == True AND Day3StdViewProbability <= ViewSDThreshold"
+  },
+  "git_commit_hash": "54b5a7cd1f1ea58cc469e12f27b2a1d205610359",
+  "git_worktree_status_at_completion": "?? AGENTS.md\n?? docs/\n?? outputs/\n?? scripts/02_build_eye_dataset.py\n?? scripts/09_build_reliability_signals.py\n?? scripts/10_tune_selective_routing.py\n?? src/\n?? tests/",
+  "loaded_paths": [
+    "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\predictions\\reliability\\20260814T141442_497529-0700\\val_reliability_signals.csv"
+  ],
+  "metrics": {
+    "accepted_metrics_are_conditional_on_accepted_eyes": true,
+    "positive_class": "Abnormal",
+    "risk_count_budget_table": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_error_count_coverage.csv",
+    "risk_rate_budget_table": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\audits\\20260814T151630_365581-0700\\day6_error_rate_coverage.csv",
+    "zero_accepted_conditional_metrics": "NaN"
+  },
+  "operating_point_finalized": false,
+  "routing_thresholds_are_candidates_only": true,
+  "run_id": "20260814T151630_365581-0700",
+  "script": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\scripts\\10_tune_selective_routing.py",
+  "script_sha256": "74c6568352dc9b0ff61eaaaf107cdd708998867265341061750e3cf57f092a04",
+  "simplicity_preference": {
+    "essentially_same_definition": "same target accepted count, accepted-error count, and accepted-FN count",
+    "rule": "prefer fewer enabled reliability components",
+    "strategy_order_after_complexity_tie": [
+      "confidence_only",
+      "confidence_model_agreement",
+      "confidence_view_sd",
+      "full_reliability"
+    ]
+  },
+  "source": {
+    "abnormal": 88,
+    "correct": 110,
+    "day5_run_id": "20260814T141442_497529-0700",
+    "eyes": 120,
+    "incorrect": 10,
+    "normal": 32,
+    "path": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\outputs\\predictions\\reliability\\20260814T141442_497529-0700\\val_reliability_signals.csv",
+    "rows": 120,
+    "sha256": "a767b163b3565a9fe664068c5fd18e96e4f13bf4dea7040ee179f098b477edb8",
+    "subjects": 95
+  },
+  "stage": "Day 6 selective-routing threshold tuning",
+  "strategy_definitions": [
+    {
+      "acceptance_rule": "PrimaryConfidenceMargin >= ConfidenceThreshold",
+      "complexity": 1,
+      "display_name": "Confidence only",
+      "strategy_id": "confidence_only"
+    },
+    {
+      "acceptance_rule": "PrimaryConfidenceMargin >= ConfidenceThreshold AND ModelAgreement == True",
+      "complexity": 2,
+      "display_name": "Confidence + model agreement",
+      "strategy_id": "confidence_model_agreement"
+    },
+    {
+      "acceptance_rule": "PrimaryConfidenceMargin >= ConfidenceThreshold AND Day3StdViewProbability <= ViewSDThreshold",
+      "complexity": 2,
+      "display_name": "Confidence + view SD",
+      "strategy_id": "confidence_view_sd"
+    },
+    {
+      "acceptance_rule": "PrimaryConfidenceMargin >= ConfidenceThreshold AND ModelAgreement == True AND Day3StdViewProbability <= ViewSDThreshold AND PredictedClassReferencePercentile <= FeaturePercentileThreshold",
+      "complexity": 4,
+      "display_name": "Confidence + agreement + view SD + feature typicality",
+      "strategy_id": "full_reliability"
+    }
+  ],
+  "test_data_loaded": false,
+  "test_predictions_created": false,
+  "test_set_evaluated": false,
+  "threshold_search": {
+    "candidate_target_rule": "nearest attainable accepted-eye count; equidistant ties choose the lower count",
+    "comparators": {
+      "Day3StdViewProbability": "<=",
+      "ModelAgreement": "is True when enabled",
+      "PredictedClassReferencePercentile": "<=",
+      "PrimaryConfidenceMargin": ">="
+    },
+    "curves_are_validation_optimized_envelopes": true,
+    "enumeration": {
+      "confidence_agreement_view_sd_ablation": {
+        "AttainableAcceptedCounts": 113,
+        "MaximumAcceptedCount": 112,
+        "RawThresholdConfigurations": 14641,
+        "UniqueAcceptanceSets": 1694
+      },
+      "confidence_model_agreement": {
+        "AttainableAcceptedCounts": 113,
+        "MaximumAcceptedCount": 112,
+        "RawThresholdConfigurations": 121,
+        "UniqueAcceptanceSets": 113
+      },
+      "confidence_only": {
+        "AttainableAcceptedCounts": 121,
+        "MaximumAcceptedCount": 120,
+        "RawThresholdConfigurations": 121,
+        "UniqueAcceptanceSets": 121
+      },
+      "confidence_view_sd": {
+        "AttainableAcceptedCounts": 121,
+        "MaximumAcceptedCount": 120,
+        "RawThresholdConfigurations": 14641,
+        "UniqueAcceptanceSets": 1898
+      },
+      "full_reliability": {
+        "AttainableAcceptedCounts": 113,
+        "MaximumAcceptedCount": 112,
+        "RawThresholdConfigurations": 1068793,
+        "UniqueAcceptanceSets": 11400
+      }
+    },
+    "envelope_masks_may_be_nonnested": true,
+    "envelope_tie_rule": [
+      "fewest accepted errors",
+      "fewest accepted false negatives",
+      "highest accepted balanced accuracy",
+      "least restrictive feature cutoff",
+      "least restrictive view-SD cutoff",
+      "lowest confidence cutoff",
+      "lexicographic accepted EyeExamID signature"
+    ],
+    "method": "exhaustive inclusive cutoffs at every unique observed validation value; exact accepted-set deduplication",
+    "risk_smoothing_applied": false,
+    "target_coverage_percentages": [
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "view_probability_range_used": false,
+    "zero_acceptance_sentinels": {
+      "confidence": "+Infinity",
+      "feature_percentile": "-Infinity",
+      "view_sd": "-Infinity"
+    }
+  },
+  "utility_module": "F:\\VSI - Volume F\\Reliability Aware BScan Ultrasound\\bscan_prelabeling\\src\\evaluation\\reliability_metrics.py",
+  "utility_module_sha256": "68894f92878b1c948fed5931fc667e96b300ad81168b1729901d85a30c15d63a"
+}
